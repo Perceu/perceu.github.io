@@ -6,11 +6,14 @@ AUTHOR = 'Perceu Bertoletti'
 SITENAME = 'Perceu Bertoletti'
 SITEURL = ''
 
+THEME = 'theme'
+STATIC_PATHS = ['img', 'static']
+CSS_FILE = 'style.css'
 PATH = 'content'
 
 TIMEZONE = 'America/Sao_Paulo'
 
-DEFAULT_LANG = 'pt'
+DEFAULT_LANG = 'pt-br'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
