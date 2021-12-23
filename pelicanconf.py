@@ -21,6 +21,10 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+OUTPUT_PATH = 'output'
+PAGE_PATHS = ['pages']
+AUTHOR_URL = 'me/{slug}.html'
+AUTHOR_SAVE_AS = 'me/{slug}.html'
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),

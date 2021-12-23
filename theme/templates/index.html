@@ -14,24 +14,15 @@
 </head>
 <body>
     <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="card mt-4">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                          <img src="/theme/images/perceu1.jpg" class="card-img-top" alt="Foto Perceu">
-                        </div>
-                        <div class="col-md-8">
-                          <div class="card-body">
-                            <h1 class="card-title">{{SITENAME}}</h1>
-                            <p class="card-text">Desenvolvedor web.</p>
-                            <p class="card-text">Em Construção.</p>
-                          </div>
-                        </div>
-                      </div>
-                  </div>
-            </div>
-        </div>
+      <img src="/theme/images/perceu2.jpg" class="avatar" alt="Foto Perceu">
+      <h1 class="title">{{SITENAME}}</h1>
+      {% for article in articles %}
+        <p class="description">
+          {{article.title}}
+        </p>
+        {{article.content}}
+      {% endfor %}
     </div>
+
 </body>
 </html>
