@@ -4,6 +4,8 @@ Category: sobre
 Author:index
 
 - [LinkedIn](https://www.linkedin.com/in/perceu-bertoletti/)
+- [Github](https://github.com/Perceu)
+- [Gitlab](https://gitlab.com/perceu)
 - [Facebook](https://www.facebook.com/PerceuB/)
 - [Twitter](https://twitter.com/PerceuB)
 - [Telegram](https://t.me/PerceuBertoletti)
