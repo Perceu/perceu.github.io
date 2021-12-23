@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Perceu Bertoletti - sobre</title><link href="/" rel="alternate"></link><link href="/feeds/sobre.atom.xml" rel="self"></link><id>/</id><updated>2020-12-22T09:00:00-03:00</updated><entry><title>Contatos</title><link href="/contatos.html" rel="alternate"></link><published>2020-12-22T09:00:00-03:00</published><updated>2020-12-22T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2020-12-22:/contatos.html</id><content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.linkedin.com/in/perceu-bertoletti/"&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Perceu"&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gitlab.com/perceu"&gt;Gitlab&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.facebook.com/PerceuB/"&gt;Facebook&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://twitter.com/PerceuB"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://t.me/PerceuBertoletti"&gt;Telegram&lt;/a&gt;&lt;/li&gt;
