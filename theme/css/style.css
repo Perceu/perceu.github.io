@@ -5,11 +5,42 @@ body {
     height: 100%;
     background: #000;
 }
+
 .container{
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.lateral{
+    min-height: 100vh;
+    width: 30%;
+    padding-right: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+.content{
+    width: 70%;
+    padding-left: 10px;
+    padding-top: 50px;
+    min-height: 100vh;
+    background-color: #eee;
+}
+
+@media only screen and (max-width: 750px) {
+    .container {
+        flex-direction: column;
+    }
+    .lateral {
+        width: 100%;
+    }
+}
+
+
+
+
 .title{
     color: #eee;
 }
@@ -19,10 +50,21 @@ ul{
     width: 100%;
     list-style-type: none;
 }
-li{
-    text-align: center;
+
+li a{
+    color: #ccc;
+    display: block;
     width: 100%;
-    padding: 10px;
+    height: 100%;
+    padding: 20px;
+    transition: 0.5s all;
+}
+
+li{
+    display: inline-block;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    text-align: center;
     list-style-type: none;
     transition: 0.3s all;
 }
@@ -30,16 +72,31 @@ li:hover{
     transition: 0.3s all;
     background-color: #aaa;
     color: #eee;
+
 }
 li:hover a{
     color: #000;
     text-decoration: none;
+    font-size: 30px;
+    transition: 0.5s all;
 }
+
+li:hover a.devicon-linkedin-plain{
+    color: #0a66c2;
+}
+
+li:hover a.devicon-facebook-plain{
+    color: #0166e1;
+}
+
 .description{
     color: #aaa;
 }
+
 .avatar{
     margin-top: 50px;
     margin-bottom: 50px;
     border-radius: 50%;
+    height: 150px;
+    width: 150px;
 }
