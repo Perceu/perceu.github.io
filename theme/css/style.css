@@ -6,6 +6,12 @@ body {
     background: #000;
 }
 
+.cafe {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
 .container{
     max-width: 100%;
     display: flex;
