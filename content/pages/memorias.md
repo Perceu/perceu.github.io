@@ -3,4 +3,6 @@ Date: 2020-12-22 09:00
 Category: sobre
 Author:index
 
-Quem é o Perceu?
+Em Construção!
+
+Aqui pretendo colocar todos os locais que ja participei de algum comentario ou apareci.

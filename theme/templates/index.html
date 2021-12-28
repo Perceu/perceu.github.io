@@ -1,66 +1,22 @@
-<!DOCTYPE html>
-<html lang="{{DEFAULT_LANG}}">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>{{SITENAME}}</title>
-        <link href="https://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Mono&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="/theme/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/theme/css/all.min.css">
-        <link rel="stylesheet" href="/theme/css/devicon.min.css">
-        <link rel="stylesheet" href="/theme/css/style.css">
-        
-        <meta name="author" content="Perceu Bertoletti">
-        <meta name="description" content="Site pessoal onde concentro meu material tecnico e conteudo relevante a programação e meu estilo de vida. Post em blogs, certificados, contatos aqui é onde você pode me conhecer.">
-        <meta name="keywords" content="site, web, desenvolvimento, programação, programador, Perceu, Bertoletti, blog">
+{% extends "base.html" %}
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJHMBL6GMJ"></script>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1733147536562189" crossorigin="anonymous"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-WJHMBL6GMJ');
-        </script>
-    </head>
-
-    <body>
-        <div class="container">
-            <div class="lateral">
-                <img src="/theme/images/perceu2.jpg" class="avatar" alt="Foto Perceu">
-                <h1 class="title">{{SITENAME}}</h1>
-                <h6 class="card-subtitle mb-2 text-muted">Quero centralizar todos os conteudos tecnicos que eu publicar aqui!</h6>
-                {% for article in articles %}
-                    {% if article.category == "social" %}
-                        <p class="description">
-                                {{article.title}}
-                        </p>
-                        {{article.content}}
-                    {% endif %}
-                {% endfor %}
-            </div>
-            <div class="content">
-                <h2>Atividades Recentes</h2>
-                <h6 class="card-subtitle mb-2 text-muted">Acompanhe todo o material que eu criar por essa pagina!</h6>
-                <hr>
-                <div class="row">
-                    <div class="cols-12 col-md-6">
-                        {% for article in articles %}
-                            {% if article.category == "home" %}
-                            <div class="card mb-4">
-                                <div class="card-body">
-                                    <h5 class="card-title">{{article.title}}</h5>
-                                    <h6 class="card-subtitle mb-2 text-muted">{{article.date | strftime('%d/%m/%Y')}}</h6>
-                                    {{article.content}}
-                                </div>
-                              </div>
-                            {% endif %}
-                        {% endfor %}
-                    </div>
+{% block content %}
+<h2>Atividades Recentes</h2>
+<h6 class="card-subtitle mb-2 text-muted">Acompanhe todo o material que eu criar por essa pagina!</h6>
+<hr>
+<div class="row">
+    <div class="cols-12 col-md-6">
+        {% for article in articles %}
+            {% if article.category == "home" %}
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">{{article.title}}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{article.date | strftime('%d/%m/%Y')}}</h6>
+                    {{article.content}}
                 </div>
-            </div>
-        </div>
-    </body>
-</html>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}
