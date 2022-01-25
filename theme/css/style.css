@@ -76,25 +76,17 @@ li{
     list-style-type: none;
     transition: 0.3s all;
 }
-li:hover{
-    transition: 0.3s all;
-    background-color: #aaa;
-    color: #eee;
 
-}
-li:hover a{
-    color: #000;
+a:hover {
     text-decoration: none;
-    font-size: 30px;
-    transition: 0.5s all;
 }
 
-li:hover a.devicon-linkedin-plain{
-    color: #0a66c2;
+.p-cont {
+    text-decoration: none;
 }
 
-li:hover a.devicon-facebook-plain{
-    color: #0166e1;
+.p-cont:hover {
+    text-decoration: none;
 }
 
 .description{
