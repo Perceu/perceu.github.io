@@ -1,0 +1,24 @@
+{% if DEFAULT_PAGINATION %}
+
+{% set first_page = articles_paginator.page(1) %}
+    {% set last_page = articles_paginator.page(articles_paginator.num_pages) %}
+    <nav class="paginator">
+        <ul class="pagination justify-content-center">
+            {% if articles_page.has_previous() %}
+            <li class="page-item"><a class="page-link" href="{{ SITEURL }}/{{ articles_previous_page.url }}">Anterior</a></li>
+            {% else %}
+            <li class="page-item"><a class="page-link disabled" href="{{ SITEURL }}/{{ articles_previous_page.url }}">Anterior</a></li>
+            {% endif %}
+            <li class="page-item flex-fill active disabled">
+                <a class="page-link border border-dark bg-dark" href="#">
+                    Página {{ articles_page.number }} de {{ articles_paginator.num_pages }}
+                </a>
+            </li>
+            {% if articles_page.has_next() %}
+            <li class="page-item"><a class="page-link" href="{{ SITEURL }}/{{ articles_next_page.url }}">Proxima</a></li>
+            {% else %}
+            <li class="page-item disabled"><a class="page-link" href="{{ SITEURL }}/{{ articles_next_page.url }}">Proxima</a></li>
+            {% endif %}
+        </ul>
+    </nav>
+{% endif %}

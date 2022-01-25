@@ -4,6 +4,7 @@ import os
 import shutil
 import sys
 import datetime
+from webbrowser import open_new
 
 from invoke import task
 from invoke.util import cd
@@ -118,3 +119,20 @@ def gh_pages(c):
     c.run('ghp-import -b {github_pages_branch} '
           '-m {commit_message} '
           '{deploy_path} -p'.format(**CONFIG))
+
+@task
+def newPub(c, titulo):
+    """add publicacoes"""
+    directory = './content/publicacoes/'
+    list_pubs = os.listdir(directory)
+
+    new_file = 'post{}.md'.format(len(list_pubs)+1)
+
+    with open("{}{}".format(directory,new_file), 'w') as file:
+        file.write("Title: {}\n".format(titulo))
+        file.write("Date: 2021-12-29 10:00\n")
+        file.write("Category: home\n")
+        file.write("Author:index\n")
+        file.write("\n")
+        file.write("** {} **\n".format(titulo))
+    
