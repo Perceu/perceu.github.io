@@ -1,93 +1,665 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Perceu Bertoletti</title>
-        <link href="https://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Mono&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="/theme/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/theme/css/all.min.css">
-        <link rel="stylesheet" href="/theme/css/devicon.min.css">
-        <link rel="stylesheet" href="/theme/css/hover-min.css">
-        <link rel="stylesheet" href="/theme/css/style.css">
-        
-        <meta name="author" content="Perceu Bertoletti">
-        <meta name="description" content="Site pessoal onde concentro meu material tecnico e conteudo relevante a programação e meu estilo de vida. Post em blogs, certificados, contatos aqui é onde você pode me conhecer.">
-        <meta name="keywords" content="site, web, desenvolvimento, programação, programador, Perceu, Bertoletti, blog">
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJHMBL6GMJ"></script>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1733147536562189" crossorigin="anonymous"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-WJHMBL6GMJ');
-        </script>
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Perceu Bertoletti</title>
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
 
-    <body>
-        <div class="container">
-            <div class="lateral">
-                <img src="/theme/images/perceu2.jpg" class="avatar" alt="Foto Perceu">
-                <h1 class="title">Perceu Bertoletti</h1>
-                <h6 class="card-subtitle mb-2 text-muted">Quero centralizar todos os conteúdos tecnicos que eu publicar aqui!</h6>
-                        <p class="description">
-                                Meus Contatos
-                        </p>
-                        <ul>
-<li><a class="hvr-wobble-to-top-right p-cont devicon-linkedin-plain" href="https://www.linkedin.com/in/perceu-bertoletti/" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont fab fa-stack-overflow" href="https://pt.stackoverflow.com/users/118700/perceu-bertoletti" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont devicon-github-original" href="https://github.com/Perceu" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont devicon-gitlab-plain" href="https://gitlab.com/perceu" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont devicon-facebook-plain" href="https://www.facebook.com/PerceuB/" target="_blank"></a></li>
-<li><a _="," class="hvr-wobble-to-top-right p-cont devicon-twitter-original" href="https://twitter.com/PerceuB" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont fab fa-twitch" href="https://www.twitch.tv/perceubertoletti" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont fab fa-telegram" href="https://t.me/PerceuBertoletti" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont fab fa-blogger" href="https://perceubertoletti.blogspot.com/" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont fab fa-medium" href="https://medium.com/@perceubertoletti" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont fab fa-tumblr" href="https://perceubertoletti.tumblr.com/" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont fab fa-instagram" href="https://www.instagram.com/perceubertoletti/" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont fab fa-pinterest" href="https://br.pinterest.com/perceubertoletti/" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont fab fa-youtube" href="https://www.youtube.com/c/PerceuBertoletti" target="_blank"></a></li>
-<li><a class="hvr-wobble-to-top-right p-cont fas fa-envelope" href="mailto:perceubertoletti@gmail.com" target="_blank"></a></li>
-</ul>
-                <div class="cafe">
-                <h6 class="card-subtitle mb-2 text-muted">Gosta do meu conteúdo? Me paga um café! </h6>
+    <!-- Vendor CSS Files -->
+    <link href="/theme/vendor/aos/aos.css" rel="stylesheet">
+    <link href="/theme/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/theme/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="/theme/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="/theme/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="/theme/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="/theme/css/style.css" rel="stylesheet">
+
+    <meta name="author" content="Perceu Bertoletti">
+    <meta name="description"
+        content="Site pessoal onde concentro meu material tecnico e conteudo relevante a programação e meu estilo de vida. Post em blogs, certificados, contatos aqui é onde você pode me conhecer.">
+    <meta name="keywords" content="site, web, desenvolvimento, programação, programador, Perceu, Bertoletti, blog">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJHMBL6GMJ"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1733147536562189"
+        crossorigin="anonymous"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-WJHMBL6GMJ');
+    </script>
+</head>
+
+<body>
+    <!-- ======= Mobile nav toggle button ======= -->
+    <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+    <!-- ======= Header ======= -->
+    <header id="header">
+        <div class="d-flex flex-column">
+
+            <div class="profile">
+                <img src="https://s.gravatar.com/avatar/8549bffc38f406e7041ad3675ce067bd?s=80" alt=""
+                    class="img-fluid rounded-circle">
+                <h1 class="text-light"><a href="index.html">Perceu Bertoletti</a></h1>
+                <div class="social-links mt-3 text-center">
+                    <a href="https://github.com/Perceu" target="_blank" class="twitter"><i class="bx bxl-github"></i></a>
+                    <a href="https://twitter.com/perceub" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+                    <a href="https://www.facebook.com/PerceuB/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+                    <a href="https://www.instagram.com/perceubertoletti/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/perceubertoletti/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                 </div>
-                <form action="https://www.paypal.com/donate" method="post" target="_top">
-                    <input type="hidden" name="hosted_button_id" value="5KA5TUELFU978" />
-                    <input type="image" src="https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Faça doações com o botão do PayPal" />
-                    <img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
-                </form>                                    
             </div>
-            <div class="content">
-<section id="content" class="body">
-  <header>
-    <h2 class="entry-title">
-      <a href="/tiktok-13.html" rel="bookmark"
-         title="Permalink to TikTok-13">TikTok-13</a></h2>
- 
-  </header>
-  <footer class="post-info">
-    <time class="published" datetime="2022-01-09T09:00:00-03:00">
-      dom 09 janeiro 2022
-    </time>
-    <address class="vcard author">
-      By           <a class="url fn" href="/me/index.html">index</a>
-    </address>
-    <div class="category">
-        Category: <a href="/category/home.html">home</a>
-    </div>
-  </footer><!-- /.post-info -->
-  <div class="entry-content">
-    <p><strong> TikTok-13 </strong></p>
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7051270717601500421" data-video-id="7051270717601500421" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti">@perceubertoletti</a> 13º Video! <a title="python" target="_blank" href="https://www.tiktok.com/tag/python">#python</a> <a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy">#fy</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp">#fyp</a> <a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying">#satisfying</a> <a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7051270697737718534">♬ som original - Perceu Bertoletti</a> </section> </blockquote>
-<script async src="https://www.tiktok.com/embed.js"></script>
-  </div><!-- /.entry-content -->
-</section>
+
+            <nav id="navbar" class="nav-menu navbar">
+                <ul>
+                    <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i>
+                            <span>Home</span></a></li>
+                    <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Sobre</span></a>
+                    </li>
+                    <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i>
+                            <span>Resumo</span></a></li>
+                    <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i>
+                            <span>Portfolio</span></a></li>
+                    <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i>
+                            <span>Serviços</span></a></li>
+                    <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i>
+                            <span>Contatos</span></a></li>
+                </ul>
+            </nav><!-- .nav-menu -->
+        </div>
+    </header><!-- End Header -->
+
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+        <div class="hero-container" data-aos="fade-in">
+            <h1>Perceu Bertoletti</h1>
+            <p>Eu sou <span class="typed"
+                    data-typed-items="Desenvolvedor, Arquiteto de Software, Consultor de Tecnologia, Consultor de Inovação"></span>
+            </p>
+        </div>
+    </section><!-- End Hero -->
+
+    <main id="main">
+
+        <!-- ======= About Section ======= -->
+        <section id="about" class="about">
+            <div class="container">
+
+                <div class="section-title">
+                    <h2>Sobre</h2>
+                    <p>Perceu Gonçalves Bertoletti, brasileiro nascido em porto alegre,
+                        formado no ensino médio no colégio estadual são marcos,
+                        formado tambem no curso tecnico em informática pela Uniftec caxias do sul.
+                        Primeira expêriencia formal com tecnologia em 2010 como assitente de informática.
+                    </p>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-4" data-aos="fade-right">
+                        <img src="/theme/img/profile-img.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+                        <h3>Consultor &amp; Desenvolvedor.</h3>
+                        <p class="fst-italic">
+                            Amo muito tudo que faço e estou sempre disponivel a conversar e ajudar a construir ideias,
+                            mas peço que respeite meus turnos ou marque conversas formais num almoço ou janta*. Adoro
+                            comer!
+                        </p>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <ul>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Nascimento:</strong> <span>24 Jun
+                                            1991</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong>
+                                        <span>perceu.github.io</span>
+                                    </li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Telefone:</strong> <span>(54)
+                                            99662-2121</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Cidade:</strong> <span>Caxias do
+                                            Sul, RS
+                                            BRA</span></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6">
+                                <ul>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>31</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong>
+                                        <span>perceubertoletti@gmail.com</span>
+                                    </li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Desenvolvedor:</strong>
+                                        <span>Trabalhando</span></li>
+                                    <li><i class="bi bi-chevron-right"></i> <strong>Consultor:</strong>
+                                        <span>Disponivel**</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <p>
+                            * Conversas formais sobre inovação, organização empresarial, consultoria tecnologica exigem
+                            um caderno e uma caneta, me avise se precisar tirar duvidas.
+                        </p>
+                        <p>
+                            ** Estou começando essa modalidade a muito pouco tempo (2022), então entenda que meu
+                            conhecimento teve 13 anos de custo pra mim.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- ======= Facts Section ======= -->
+        <section id="facts" class="facts">
+            <div class="container">
+
+                <div class="section-title">
+                    <h2>Fatos</h2>
+                    <p>
+                        Nunca documentei nenhuma dessas informações por isso tudo é aproximadamente pois envolve minha
+                        memoria e calculos imprecisos,
+                        odeio frustrar as pessoas por isso não desejo afirmar inverdades.
+                    </p>
+                </div>
+
+                <div class="row no-gutters">
+
+                    <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+                        <div class="count-box">
+                            <i class="bi bi-calendar3"></i>
+                            <span data-purecounter-start="0" data-purecounter-end="13" data-purecounter-duration="1"
+                                class="purecounter"></span>
+                            <p><strong>Anos</strong> de Experiencia aproximadamente</strong></p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up"
+                        data-aos-delay="100">
+                        <div class="count-box">
+                            <i class="bi bi-alarm"></i>
+                            <span data-purecounter-start="0" data-purecounter-end="8240" data-purecounter-duration="1"
+                                class="purecounter"></span>
+                            <p><strong>Horas</strong> de Estudo aproximadamente</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up"
+                        data-aos-delay="200">
+                        <div class="count-box">
+                            <i class="bi bi-postcard"></i>
+                            <span data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1"
+                                class="purecounter"></span>
+                            <p><strong>Projetos</strong> entregues aproximadamente</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up"
+                        data-aos-delay="300">
+                        <div class="count-box">
+                            <i class="bi bi-building"></i>
+                            <span data-purecounter-start="0" data-purecounter-end="17" data-purecounter-duration="1"
+                                class="purecounter"></span>
+                            <p><strong>Empresas Atendidas</strong> aproximadamente.</p>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- End Facts Section -->
+
+        <!-- ======= Skills Section ======= -->
+        <section id="skills" class="skills section-bg">
+            <div class="container">
+
+                <div class="section-title">
+                    <h2>Habilidades</h2>
+                    <p>Essas são algumas das tecnologias que eu mais uso no dia a dia, não coloque nenhum
+                        framework/biblioteca das linguagens pois acredito que seja facil se adaptar a qualquer um com o
+                        tempo certo.</p>
+
+                </div>
+
+                <div class="row skills-content">
+
+                    <div class="col-lg-6" data-aos="fade-up">
+
+                        <div class="progress">
+                            <span class="skill">HTML <i class="val">100%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">CSS <i class="val">85%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">JavaScript <i class="val">80%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+                        <div class="progress">
+                            <span class="skill">PHP <i class="val">90%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">Python <i class="val">85%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">Docker <i class="val">70%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- End Skills Section -->
+
+        <!-- ======= Resume Section ======= -->
+        <section id="resume" class="resume">
+            <div class="container">
+
+                <div class="section-title">
+                    <h2>Resumo</h2>
+                    <p>Comecei a trabalhar aos 18 anos e passei por diversas experiencias, buscando sempre o meu
+                        aprimoramento e auxiliando empresas a aprimorarem seus processos e sua tecnologia.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6" data-aos="fade-up">
+                        <h3 class="resume-title">Quem eu sou ?</h3>
+                        <div class="resume-item pb-0">
+                            <h4>Perceu Bertoletti</h4>
+                            <p><em>Sou um nerd que adora filmes, cinema, quadrinhos, adoro tecnologia, caseiro e bem
+                                    instrospectivo. Gosto muito de ajudar, mas tenho meus sonhos e desejo mais que tudo
+                                    ser reconhecido pelo meu conhecimento e meus feitos.
+                                    gosto da mitologia do meu nome por que Perseu criou o proprio destino.
+                                </em></p>
+                            <ul>
+                                <li>(54) 9 9662-2121</li>
+                                <li>perceubertoletti@gmail.com</li>
+                            </ul>
+                        </div>
+
+                        <h3 class="resume-title">Formação</h3>
+                        <div class="resume-item">
+                            <h4>Tecnico em Informatica</h4>
+                            <h5>Completo</h5>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Profissionalizante em PHP</h4>
+                            <h5>Completo</h5>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Profissionalizante em HTML5</h4>
+                            <h5>Completo</h5>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Tecnologias digitas </h4>
+                            <h5>Incompleto</h5>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Analise e Desenvolvimento de Sistemas  </h4>
+                            <h5>Incompleto</h5>
+                        </div>
+                    </div>
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                        <h3 class="resume-title">Experiência Profissional</h3>
+                        <div class="resume-item">
+                            <h4>Beemôn</h4>
+                            <h5>2022 - Atual</h5>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Keyworks</h4>
+                            <h5>2018 - 2022</h5>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Dipsystem</h4>
+                            <h5>2017 - 2018</h5>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Ezoom</h4>
+                            <h5>2016 - 2017</h5>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Dipsystem</h4>
+                            <h5>2015 - 2016</h5>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Activasoft</h4>
+                            <h5>2012 - 2015</h5>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Grupo All Tech</h4>
+                            <h5>2012 - 2013</h5>
+                        </div>
+                        <div class="resume-item">
+                            <h4>Instaladora São Marcos</h4>
+                            <h5>2010 - 2012</h5>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section><!-- End Resume Section -->
+
+        <!-- ======= Portfolio Section ======= -->
+        <section id="portfolio" class="portfolio section-bg">
+            <div class="container">
+
+                <div class="section-title">
+                    <h2>Eventos</h2>
+                    <p>Alguns eventos que ja participei orgulho de conhecer tanta gente legal.</p>
+                </div>
+
+                <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <div class="portfolio-wrap">
+                            <img src="/theme/img/portfolio/eventos-1.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <div class="portfolio-wrap">
+                            <img src="/theme/img/portfolio/eventos-2.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <div class="portfolio-wrap">
+                            <img src="/theme/img/portfolio/eventos-3.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <div class="portfolio-wrap">
+                            <img src="/theme/img/portfolio/eventos-4.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <div class="portfolio-wrap">
+                            <img src="/theme/img/portfolio/eventos-5.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                        <div class="portfolio-wrap">
+                            <img src="/theme/img/portfolio/eventos-6.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <div class="portfolio-wrap">
+                            <img src="/theme/img/portfolio/eventos-7.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <div class="portfolio-wrap">
+                            <img src="/theme/img/portfolio/eventos-8.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <div class="portfolio-wrap">
+                            <img src="/theme/img/portfolio/eventos-9.jpg" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- End Portfolio Section -->
+
+        <!-- ======= Services Section ======= -->
+        <section id="services" class="services">
+            <div class="container">
+
+                <div class="section-title">
+                    <h2>Serviços</h2>
+                    <p>Normalmente atuo como desenvolvedor, mas estou buscando novas oportunidades de colaborar com o cenario tecnologico, dividindo experiencia e tambem fazendo treinamentos.Vamos fazer negocios, entre em contato que podemos marcar um horario para conversarmos e definir como posso te ajudar.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
+                        <div class="icon"><i class="bi bi-briefcase"></i></div>
+                        <h4 class="title"><a href="">Desenvolvimento</a></h4>
+                        <p class="description">Desenvolvimento de produtos, manutenção de codigos, avaliação de desempenho e arquitetura, alem de analise para melhorias e manutenabilidade. </p>
+                    </div>
+                    <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                        <div class="icon"><i class="bi bi-card-checklist"></i></div>
+                        <h4 class="title"><a href="">Treinamento</a></h4>
+                        <p class="description">Treinamento de pessoas e equipes, criação de cultura empresarial, alem de gestão do conhecimento e manutenção desse conhecimento</p>
+                    </div>
+                    <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+                        <div class="icon"><i class="bi bi-bar-chart"></i></div>
+                        <h4 class="title"><a href="">Consultoria tecnologica</a></h4>
+                        <p class="description">Consultoria tecnologica para inovação aprimoramento do parque tecnologico da empresa alem de informatização de processos e criação de cultura digital.</p>
+                    </div>
+                    <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+                        <div class="icon"><i class="bi bi-binoculars"></i></div>
+                        <h4 class="title"><a href="">Estrutura de Inovação</a></h4>
+                        <p class="description">Estrutura de inovação mostrando caminhos para inovar e quebrar paradigmas e remoção de estruturas dogmaticas.</p>
+                    </div>
+                    <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+                        <div class="icon"><i class="bi bi-brightness-high"></i></div>
+                        <h4 class="title"><a href="">Organização de Equipe</a></h4>
+                        <p class="description">Organização de Equipe, melhorias sem custo que fazem a diferença alem de otimizar recursos que façam sua empresa realmente pensar em pessoas.</p>
+                    </div>
+                    <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
+                        <div class="icon"><i class="bi bi-calendar4-week"></i></div>
+                        <h4 class="title"><a href="">Estrutura Organizacional</a></h4>
+                        <p class="description">Estrtura organizacional, montagem de planos de ação para desenhar sua estrutura organizacional e melhorar seu desempenho olhando para os seus processos.</p>
+                    </div>
+                </div>
+
+            </div>
+        </section><!-- End Services Section -->
+
+        <!-- ======= Testimonials Section ======= -->
+        <section id="testimonials" class="testimonials section-bg">
+            <div class="container">
+
+                <div class="section-title">
+                    <h2>Dicas de Processos</h2>
+                    <p>Que tal responder as perguntas e levantar as informações a baixo para ja ter bons ganhos na sua cultura de inovação? ou na cultura digital?
+                        Leia algumas dessas dicas e pesquise sobre que isso pode lhe ajudar muito a estruturar sua empresa.</p>
+                    <p>Aproveite-se de conteudos gratuitos para saber qual passo gostaria de dar na sua equipe/empresa. Foco nas pessoas começa no foco em si mesmo.</p>
+                </div>
+
+                <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper-wrapper">
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-item" data-aos="fade-up">
+                                <p>
+                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit
+                                    rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam,
+                                    risus at semper.
+                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                </p>
+                            </div>
+                        </div><!-- End testimonial item -->
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
+                                <p>
+                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid
+                                    cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet
+                                    legam anim culpa.
+                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                </p>
+                            </div>
+                        </div><!-- End testimonial item -->
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
+                                <p>
+                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem
+                                    veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint
+                                    minim.
+                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                </p>
+                            </div>
+                        </div><!-- End testimonial item -->
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
+                                <p>
+                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim
+                                    fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem
+                                    dolore labore illum veniam.
+                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                </p>
+                            </div>
+                        </div><!-- End testimonial item -->
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
+                                <p>
+                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster
+                                    veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam
+                                    culpa fore nisi cillum quid.
+                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                </p>
+                            </div>
+                        </div><!-- End testimonial item -->
+
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+
+            </div>
+        </section><!-- End Testimonials Section -->
+
+        <!-- ======= Contact Section ======= -->
+        <section id="contact" class="contact">
+            <div class="container">
+
+                <div class="section-title">
+                    <h2>Contatos</h2>
+                    <p>Podem entrar em contato via email ou whatapp, minhas redes sociais estão todas disponiveis, as vezes demoro pra responder ou ignoro por um tempo.</p>
+                </div>
+
+                <div class="row" data-aos="fade-in">
+
+                    <div class="col-lg-5 d-flex align-items-stretch">
+                        <div class="info">
+                            <div class="email">
+                                <i class="bi bi-envelope"></i>
+                                <h4>Email:</h4>
+                                <p>perceubertoletti@gmail.com</p>
+                            </div>
+
+                            <div class="phone">
+                                <i class="bi bi-phone"></i>
+                                <h4>Telefone:</h4>
+                                <p>(54) 9 9662-2121</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+                        <div class="info">
+                            <div class="address">
+                                <i class="bx bxl-facebook"></i>
+                                <h4>Facebook:</h4>
+                                <p>@perceub</p>
+                            </div>
+
+                            <div class="email">
+                                <i class="bx bxl-instagram"></i>
+                                <h4>Instagram:</h4>
+                                <p>@perceubertoletti</p>
+                            </div>
+
+                            <div class="phone">
+                                <i class="bx bxl-twitter"></i>
+                                <h4>Twitter:</h4>
+                                <p>@perceub</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- End Contact Section -->
+
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container">
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
             </div>
         </div>
-    </body>
+    </footer><!-- End  Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="/theme/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="/theme/vendor/aos/aos.js"></script>
+    <script src="/theme/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/theme/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="/theme/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="/theme/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="/theme/vendor/typed.js/typed.min.js"></script>
+    <script src="/theme/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="/theme/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="/theme/js/main.js"></script>
+</body>
+
 </html>
