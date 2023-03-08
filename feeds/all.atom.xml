@@ -1,85 +1,548 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Perceu Bertoletti</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2022-01-19T10:00:00-03:00</updated><entry><title>TikTok-18</title><link href="/tiktok-18.html" rel="alternate"></link><published>2022-01-19T10:00:00-03:00</published><updated>2022-01-19T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2022-01-19:/tiktok-18.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-18 &lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Perceu Bertoletti</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2023-03-07T09:00:00-03:00</updated><entry><title>Meus 10 Anos de Trabalho</title><link href="/meus-10-anos-de-trabalho.html" rel="alternate"></link><published>2023-03-07T09:00:00-03:00</published><updated>2023-03-07T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2023-03-07:/meus-10-anos-de-trabalho.html</id><content type="html">&lt;section&gt;
+    Meus 13 anos de Trabalho!
+&lt;/section&gt;
+&lt;section&gt;
+    Perceu Gonçalves Bertoletti
+    Senior software developer
+    31 anos
+&lt;/section&gt;
+&lt;section&gt;
+    Sobre o que vamos falar:
+    &lt;ul&gt;
+        &lt;li&gt;Carreira&lt;/li&gt;
+        &lt;li&gt;Programação&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;</content><category term="apresentacoes"></category></entry><entry><title>Sou Programador e agora ?</title><link href="/sou-programador-e-agora.html" rel="alternate"></link><published>2022-03-07T09:00:00-03:00</published><updated>2022-03-07T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-03-07:/sou-programador-e-agora.html</id><summary type="html">&lt;section&gt;
+    &lt;h1&gt;Já Programo.&lt;/h1&gt;
+    &lt;h3&gt;E agora?&lt;/h3&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Quem eu sou?&lt;/h2&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;:&lt;a href="https://www.facebook.com/perceu.bertoletti"&gt;Perceu Bertoletti&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Idade&lt;/strong&gt;: 26 anos&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Como ganho dinheiro&lt;/strong&gt;: Desenvolvendo sistema&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;O que eu gosto/faço&lt;/strong&gt;: Super herois, series, filmes, video games :(&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;Sobre o que vamos conversar ?&lt;/h2&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;Codigo&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;limpo&lt;/li&gt;
+            &lt;li&gt;Leitura e escrita&lt;/li&gt;
+            &lt;li&gt;Bom senso e padroes&lt;/li&gt;
+            &lt;li&gt;Tecnologia&lt;/li&gt;
+            &lt;li&gt;Legado &amp; Testes&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;Mindset Do codigo&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Organismo …&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;/section&gt;</summary><content type="html">&lt;section&gt;
+    &lt;h1&gt;Já Programo.&lt;/h1&gt;
+    &lt;h3&gt;E agora?&lt;/h3&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Quem eu sou?&lt;/h2&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;:&lt;a href="https://www.facebook.com/perceu.bertoletti"&gt;Perceu Bertoletti&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Idade&lt;/strong&gt;: 26 anos&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Como ganho dinheiro&lt;/strong&gt;: Desenvolvendo sistema&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;O que eu gosto/faço&lt;/strong&gt;: Super herois, series, filmes, video games :(&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;Sobre o que vamos conversar ?&lt;/h2&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;Codigo&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;limpo&lt;/li&gt;
+            &lt;li&gt;Leitura e escrita&lt;/li&gt;
+            &lt;li&gt;Bom senso e padroes&lt;/li&gt;
+            &lt;li&gt;Tecnologia&lt;/li&gt;
+            &lt;li&gt;Legado &amp; Testes&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;Mindset Do codigo&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Organismo Vivo&lt;/li&gt;
+            &lt;li&gt;Micro interações&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;O profissional&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Codificador Limpo&lt;/li&gt;
+            &lt;li&gt;mindset&lt;/li&gt;
+            &lt;li&gt;Profissão&lt;/li&gt;
+            &lt;li&gt;Expectativas&lt;/li&gt;
+            &lt;li&gt;Esforço&lt;/li&gt;
+            &lt;li&gt;Estudo e pratica&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;O social&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;SmallActs&lt;/li&gt;
+            &lt;li&gt;Network&lt;/li&gt;
+            &lt;li&gt;Companheiros&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+&lt;section data-background="#010126"&gt;
+    &lt;h2&gt;Codigo&lt;/h2&gt;
+    &lt;img src="imgs/codigo.jpg" height="400px"&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;section data-background="#010126"&gt;
+        &lt;h1&gt;Codigo Limpo&lt;/h1&gt;
+        &lt;p&gt;
+            &lt;img src="imgs/clean_code.jpeg" alt=""&gt;
+        &lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#010126"&gt;
+        &lt;h2&gt;Limpo&lt;/h2&gt;
+        &lt;img src="imgs/wtf.jpg" height="400px"&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#010126"&gt;
+        &lt;h2&gt;Codigo Limpo&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Expressividade de codigo&lt;/li&gt;
+            &lt;li&gt;Classes pequenas&lt;/li&gt;
+            &lt;li&gt;Sequência de leitura&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/section &gt;
+    &lt;section data-background="#010126"&gt;
+        &lt;h2&gt;SOLID &lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;[S]ingle-responsibility Principle&lt;/li&gt;
+            &lt;li&gt;[O]pen-closed Principle&lt;/li&gt;
+            &lt;li&gt;[L]iskov substitution principle&lt;/li&gt;
+            &lt;li&gt;[I]nterface segregation principle&lt;/li&gt;
+            &lt;li&gt;[D]ependency Inversion principle&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/section &gt;
+    &lt;section data-background="#010126"&gt;
+        &lt;h2&gt;DRY&lt;/h2&gt;
+        &lt;li&gt;[D]on’t [R]epeat [Y]ourself&lt;/li&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#010126"&gt;
+        &lt;h2&gt;Design Patterns&lt;/h2&gt;
+        &lt;img src="imgs/gof.jpeg" height="400px"&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#010126"&gt;
+        &lt;h2&gt;Bom senso&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;&lt;a href="https://www.php-fig.org/"&gt;psr's&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="https://www.python.org/dev/peps/"&gt;pep&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="http://jstherightway.org"&gt;jstherightway&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="http://br.phptherightway.com/"&gt;phptherightway&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="http://www.w3schools.com/"&gt;w3schools&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;Documentação*&lt;/li&gt;
+            &lt;li&gt;ver codigo dos outros&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;small&gt;*zealdocs&lt;/small&gt;&lt;/p&gt;
+    &lt;/section &gt;
+    &lt;section data-background="#010126"&gt;
+        &lt;h2&gt;Codigo Limpo&lt;/h2&gt;
+        &lt;p&gt;Não importa tecnologia&lt;/p&gt;
+        &lt;p&gt; $ ; -&gt; . &lt;/p&gt;
+    &lt;/section&gt;
+
+    &lt;section data-background="#010126"&gt;
+        &lt;h2&gt;Codigo legado&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Pessoa&lt;/li&gt;
+            &lt;li&gt;Idade&lt;/li&gt;
+            &lt;li&gt;Tecnologia&lt;/li&gt;
+            &lt;li&gt;Documentação&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#010126"&gt;
+        &lt;h2&gt;Codigo legado&lt;/h2&gt;
+        &lt;h3&gt;Sem Testes&lt;/h3&gt;
+        &lt;img src="imgs/codigo_legado.jpg" alt=""&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#010126"&gt;
+        &lt;h2&gt;Testes&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Baixo custo de manutenção&lt;/li&gt;
+            &lt;li&gt;Garantia de funcionamento&lt;/li&gt;
+            &lt;li&gt;Documentação como codigo&lt;/li&gt;
+            &lt;li&gt;...&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h1&gt;Mindset&lt;/h1&gt;
+    &lt;p&gt;
+        &lt;img src="imgs/think.jpg" alt=""&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h1&gt;Programa como organizmo vivo&lt;/h1&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Organismo vivo não construção&lt;/li&gt;
+        &lt;li&gt;Cirurgia em vez de Correção&lt;/li&gt;
+        &lt;li&gt;Evolução em vez de Melhoria&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;section data-background="#26011e"&gt;
+    &lt;h1&gt;Codificador Limpo&lt;/h1&gt;
+    &lt;p&gt;
+        &lt;img width="400px" src="imgs/codificador_limpo.jpg" alt=""&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;section data-background="#26011e"&gt;
+        &lt;h2&gt;Codificador Limpo&lt;/h2&gt;
+        &lt;p&gt;
+            Forma de pensar do programador.                         
+        &lt;/p&gt;
+        &lt;p&gt;
+            Profissão do programador.                           
+        &lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#26011e"&gt;
+        &lt;h2&gt;Codificador Limpo&lt;/h2&gt;
+        &lt;p&gt;Expectativas&lt;/p&gt;
+        &lt;p&gt;Firmesa/Honestidade&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#26011e"&gt;
+        &lt;h2&gt;Codificador Limpo&lt;/h2&gt;
+        &lt;p&gt;Focus Mana&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#26011e"&gt;
+        &lt;h2&gt;Codificador Limpo&lt;/h2&gt;
+        &lt;p&gt;Estudo e pratica&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;section data-background="#E8DDCB"&gt;
+        &lt;h1&gt;Small Acts&lt;/h1&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#E8DDCB"&gt;
+        &lt;h2&gt;Confiança&lt;/h2&gt;
+        &lt;p&gt;Deve ser respeitada e nunca ameaçada&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#E8DDCB"&gt;
+        &lt;h2&gt;Diálogo&lt;/h2&gt;
+        &lt;p&gt;Maneira de construir uma verdadeira relação de confiança&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#E8DDCB"&gt;
+        &lt;h2&gt;Contato Pessoal&lt;/h2&gt;
+        &lt;p&gt;Experiência mais rica existente, insuperável por qualquer mídia ou tecnologia&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#E8DDCB"&gt;
+        &lt;h2&gt;Transparência&lt;/h2&gt;
+        &lt;p&gt;Meio para manter uma comunidade sustentável&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#E8DDCB"&gt;
+        &lt;h2&gt;Diversidade&lt;/h2&gt;
+        &lt;p&gt;Se você precisa de um rótulo, defina-se como Humano&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#E8DDCB"&gt;
+        &lt;h2&gt;Auto-organização&lt;/h2&gt;
+        &lt;p&gt;Líderes emergem, mas não devem existir donos&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#E8DDCB"&gt;
+        &lt;h2&gt;Exemplo&lt;/h2&gt;
+        &lt;p&gt;É como você deve ensinar, viver e aprender&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#E8DDCB"&gt;
+        &lt;h2&gt;Consistência&lt;/h2&gt;
+        &lt;p&gt;tudo tem seu tempo, intensidade nem sempre é a resposta&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#E8DDCB"&gt;
+        &lt;h2&gt;Doe, doe, doe!&lt;/h2&gt;
+        &lt;p&gt;Você se surpreenderá como isso retorna rápido&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section data-background="#E8DDCB"&gt;
+        &lt;h2&gt;Faça!&lt;/h2&gt;
+        &lt;p&gt;O mais simples possível, apenas o essencial para passar adiante&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;h1&gt;Fim?&lt;/h1&gt;
+    &lt;p&gt;
+        &lt;small&gt;Me contate como &lt;b&gt;Perceu Bertoletti&lt;/b&gt; na maioria das redes sociais&lt;/small&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;small&gt;contato: perceu.github.io/me&lt;/small&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</content><category term="apresentacoes"></category></entry><entry><title>TikTok-18</title><link href="/tiktok-18.html" rel="alternate"></link><published>2022-01-19T10:00:00-03:00</published><updated>2022-01-19T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-01-19:/tiktok-18.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-18 &lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7055104468068666630" data-video-id="7055104468068666630" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; 18º video  segue para ver mais &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;#python&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;#fy&lt;/a&gt; &lt;a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp"&gt;#fyp&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;#satisfying&lt;/a&gt; &lt;a title="pyxel" target="_blank" href="https://www.tiktok.com/tag/pyxel"&gt;#pyxel&lt;/a&gt; &lt;a title="wallpapers" target="_blank" href="https://www.tiktok.com/tag/wallpapers"&gt;#wallpapers&lt;/a&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7055104413509257989"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
-&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="home"></category></entry><entry><title>TikTok-17</title><link href="/tiktok-17.html" rel="alternate"></link><published>2022-01-16T10:00:00-03:00</published><updated>2022-01-16T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2022-01-16:/tiktok-17.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-17 &lt;/strong&gt;&lt;/p&gt;
+&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="blog"></category></entry><entry><title>TikTok-17</title><link href="/tiktok-17.html" rel="alternate"></link><published>2022-01-16T10:00:00-03:00</published><updated>2022-01-16T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-01-16:/tiktok-17.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-17 &lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7053862348792007942" data-video-id="7053862348792007942" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; 17º video &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;#python&lt;/a&gt; &lt;a title="turtle" target="_blank" href="https://www.tiktok.com/tag/turtle"&gt;#turtle&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;#satisfying&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;#fy&lt;/a&gt; &lt;a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp"&gt;#fyp&lt;/a&gt; &lt;a title="wallpaper" target="_blank" href="https://www.tiktok.com/tag/wallpaper"&gt;#wallpaper&lt;/a&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7053862335017913093"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
-&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="home"></category></entry><entry><title>TikTok-16</title><link href="/tiktok-16.html" rel="alternate"></link><published>2022-01-15T11:00:00-03:00</published><updated>2022-01-15T11:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2022-01-15:/tiktok-16.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-16 &lt;/strong&gt;&lt;/p&gt;
+&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="blog"></category></entry><entry><title>TikTok-16</title><link href="/tiktok-16.html" rel="alternate"></link><published>2022-01-15T11:00:00-03:00</published><updated>2022-01-15T11:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-01-15:/tiktok-16.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-16 &lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7053299860107267333" data-video-id="7053299860107267333" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; 16º video &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;#fy&lt;/a&gt; &lt;a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp"&gt;#fyp&lt;/a&gt; &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;#python&lt;/a&gt; &lt;a title="superman" target="_blank" href="https://www.tiktok.com/tag/superman"&gt;#superman&lt;/a&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7053299702535703302"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
-&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="home"></category></entry><entry><title>TikTok-15</title><link href="/tiktok-15.html" rel="alternate"></link><published>2022-01-15T10:00:00-03:00</published><updated>2022-01-15T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2022-01-15:/tiktok-15.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-15 &lt;/strong&gt;&lt;/p&gt;
+&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="blog"></category></entry><entry><title>TikTok-15</title><link href="/tiktok-15.html" rel="alternate"></link><published>2022-01-15T10:00:00-03:00</published><updated>2022-01-15T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-01-15:/tiktok-15.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-15 &lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7053262378456173830" data-video-id="7053262378456173830" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; 15º video  qual voces preferem ? pixel fechado ou ascii art ?&lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;#fy&lt;/a&gt; &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;#python&lt;/a&gt; &lt;a title="batman" target="_blank" href="https://www.tiktok.com/tag/batman"&gt;#batman&lt;/a&gt; &lt;a title="curses" target="_blank" href="https://www.tiktok.com/tag/curses"&gt;#curses&lt;/a&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7053262306050181893"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
-&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="home"></category></entry><entry><title>TikTok-14</title><link href="/tiktok-14.html" rel="alternate"></link><published>2022-01-09T10:00:00-03:00</published><updated>2022-01-09T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2022-01-09:/tiktok-14.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-14 &lt;/strong&gt;&lt;/p&gt;
+&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="blog"></category></entry><entry><title>TikTok-14</title><link href="/tiktok-14.html" rel="alternate"></link><published>2022-01-09T10:00:00-03:00</published><updated>2022-01-09T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-01-09:/tiktok-14.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-14 &lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7051312091583499526" data-video-id="7051312091583499526" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; 14º video, animação criada em  &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;#python&lt;/a&gt; e &lt;a title="curses" target="_blank" href="https://www.tiktok.com/tag/curses"&gt;#curses&lt;/a&gt; desenho pego na internet ascii art &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;#fy&lt;/a&gt; &lt;a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp"&gt;#fyp&lt;/a&gt; &lt;a title="ironman" target="_blank" href="https://www.tiktok.com/tag/ironman"&gt;#ironman&lt;/a&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7051312082720934661"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
-&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="home"></category></entry><entry><title>TikTok-13</title><link href="/tiktok-13.html" rel="alternate"></link><published>2022-01-09T09:00:00-03:00</published><updated>2022-01-09T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2022-01-09:/tiktok-13.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-13 &lt;/strong&gt;&lt;/p&gt;
+&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="blog"></category></entry><entry><title>TikTok-13</title><link href="/tiktok-13.html" rel="alternate"></link><published>2022-01-09T09:00:00-03:00</published><updated>2022-01-09T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-01-09:/tiktok-13.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-13 &lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7051270717601500421" data-video-id="7051270717601500421" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; 13º Video! &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;#python&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;#fy&lt;/a&gt; &lt;a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp"&gt;#fyp&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;#satisfying&lt;/a&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7051270697737718534"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
-&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="home"></category></entry><entry><title>TikTok-12</title><link href="/tiktok-12.html" rel="alternate"></link><published>2022-01-06T09:00:00-03:00</published><updated>2022-01-06T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2022-01-06:/tiktok-12.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-12 &lt;/strong&gt;&lt;/p&gt;
+&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="blog"></category></entry><entry><title>TikTok-12</title><link href="/tiktok-12.html" rel="alternate"></link><published>2022-01-06T09:00:00-03:00</published><updated>2022-01-06T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-01-06:/tiktok-12.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-12 &lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7050268566695972102" data-video-id="7050268566695972102" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; 12º video, fiquei feliz hoje descobrindo que tem galera que curte esse tipo de video  &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;#python&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;#fy&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;#satisfying&lt;/a&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7050268504859151109"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
-&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="home"></category></entry><entry><title>TikTok-11</title><link href="/tiktok-11.html" rel="alternate"></link><published>2022-01-01T12:00:00-03:00</published><updated>2022-01-01T12:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2022-01-01:/tiktok-11.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-11 &lt;/strong&gt;&lt;/p&gt;
+&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="blog"></category></entry><entry><title>TikTok-11</title><link href="/tiktok-11.html" rel="alternate"></link><published>2022-01-01T12:00:00-03:00</published><updated>2022-01-01T12:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-01-01:/tiktok-11.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-11 &lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7048733487259487493" data-video-id="7048733487259487493" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; 11º video, segue pra aprender a fazer isso e mais com &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;#python&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;#fy&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;#satisfying&lt;/a&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7048733447808633605"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
-&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="home"></category></entry><entry><title>TikTok-10</title><link href="/tiktok-10.html" rel="alternate"></link><published>2022-01-01T11:00:00-03:00</published><updated>2022-01-01T11:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2022-01-01:/tiktok-10.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-10 &lt;/strong&gt;&lt;/p&gt;
+&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="blog"></category></entry><entry><title>TikTok-10</title><link href="/tiktok-10.html" rel="alternate"></link><published>2022-01-01T11:00:00-03:00</published><updated>2022-01-01T11:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-01-01:/tiktok-10.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-10 &lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7048713734004460806" data-video-id="7048713734004460806" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; Decimo video! programação art! &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;#python&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;#fy&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;#satisfying&lt;/a&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7048713732020849414"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
-&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="home"></category></entry><entry><title>TikTok-9</title><link href="/tiktok-9.html" rel="alternate"></link><published>2022-01-01T10:00:00-03:00</published><updated>2022-01-01T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2022-01-01:/tiktok-9.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-9 &lt;/strong&gt;&lt;/p&gt;
+&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="blog"></category></entry><entry><title>TikTok-9</title><link href="/tiktok-9.html" rel="alternate"></link><published>2022-01-01T10:00:00-03:00</published><updated>2022-01-01T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-01-01:/tiktok-9.html</id><content type="html">&lt;p&gt;&lt;strong&gt; TikTok-9 &lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7048701570363460869" data-video-id="7048701570363460869" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; Nono Video! Segue pra entender como se faz &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;#fy&lt;/a&gt; &lt;a title="pytho" target="_blank" href="https://www.tiktok.com/tag/pytho"&gt;#pytho&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;#satisfying&lt;/a&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7048701543725484805"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
-&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="home"></category></entry><entry><title>Post Blogspot</title><link href="/post-blogspot.html" rel="alternate"></link><published>2021-12-29T10:00:00-03:00</published><updated>2021-12-29T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2021-12-29:/post-blogspot.html</id><content type="html">&lt;p&gt;&lt;strong&gt; Criando uma assinatura de e-mail &lt;/strong&gt;,
+&lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;</content><category term="blog"></category></entry><entry><title>Post Blogspot</title><link href="/post-blogspot.html" rel="alternate"></link><published>2021-12-29T10:00:00-03:00</published><updated>2021-12-29T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-12-29:/post-blogspot.html</id><content type="html">&lt;p&gt;&lt;strong&gt; Criando uma assinatura de e-mail &lt;/strong&gt;,
 se liga: 
-&lt;a href="https://perceubertoletti.blogspot.com/2021/12/criando-uma-assinatura-de-e-mail.html"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Video tiktok-6</title><link href="/video-tiktok-6.html" rel="alternate"></link><published>2021-12-27T10:50:00-03:00</published><updated>2021-12-27T10:50:00-03:00</updated><author><name>index</name></author><id>tag:None,2021-12-27:/video-tiktok-6.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046372123060817157" data-video-id="7046372123060817157" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Sexto Video &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;##python&lt;/a&gt;  &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;##satisfying&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;##fy&lt;/a&gt; &lt;a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp"&gt;##fyp&lt;/a&gt;&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046372088290085637"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
+&lt;a href="https://perceubertoletti.blogspot.com/2021/12/criando-uma-assinatura-de-e-mail.html"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Video tiktok-6</title><link href="/video-tiktok-6.html" rel="alternate"></link><published>2021-12-27T10:50:00-03:00</published><updated>2021-12-27T10:50:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-12-27:/video-tiktok-6.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046372123060817157" data-video-id="7046372123060817157" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Sexto Video &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;##python&lt;/a&gt;  &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;##satisfying&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;##fy&lt;/a&gt; &lt;a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp"&gt;##fyp&lt;/a&gt;&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046372088290085637"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
 &lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok6.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Artigo linkedin-1</title><link href="/artigo-linkedin-1.html" rel="alternate"></link><published>2021-12-27T10:00:00-03:00</published><updated>2021-12-27T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2021-12-27:/artigo-linkedin-1.html</id><content type="html">&lt;p&gt;&lt;strong&gt;Programação artística&lt;/strong&gt;,
+&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok6.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Artigo linkedin-1</title><link href="/artigo-linkedin-1.html" rel="alternate"></link><published>2021-12-27T10:00:00-03:00</published><updated>2021-12-27T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-12-27:/artigo-linkedin-1.html</id><content type="html">&lt;p&gt;&lt;strong&gt;Programação artística&lt;/strong&gt;,
 se liga: 
-&lt;a href="https://www.linkedin.com/pulse/programa%C3%A7%C3%A3o-art%C3%ADstica-perceu-bertoletti/"&gt;link para o artigo&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Video tiktok-5</title><link href="/video-tiktok-5.html" rel="alternate"></link><published>2021-12-27T10:00:00-03:00</published><updated>2021-12-27T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2021-12-27:/video-tiktok-5.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046344178640489734" data-video-id="7046344178640489734" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Quinto video &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;##python&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;##satisfying&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;##fy&lt;/a&gt; &lt;a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp"&gt;##fyp&lt;/a&gt;&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046344087724690182"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
+&lt;a href="https://www.linkedin.com/pulse/programa%C3%A7%C3%A3o-art%C3%ADstica-perceu-bertoletti/"&gt;link para o artigo&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Video tiktok-5</title><link href="/video-tiktok-5.html" rel="alternate"></link><published>2021-12-27T10:00:00-03:00</published><updated>2021-12-27T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-12-27:/video-tiktok-5.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046344178640489734" data-video-id="7046344178640489734" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Quinto video &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;##python&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;##satisfying&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;##fy&lt;/a&gt; &lt;a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp"&gt;##fyp&lt;/a&gt;&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046344087724690182"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
 &lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok5.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Video tiktok-4</title><link href="/video-tiktok-4.html" rel="alternate"></link><published>2021-12-27T09:00:00-03:00</published><updated>2021-12-27T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2021-12-27:/video-tiktok-4.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046332978896637189" data-video-id="7046332978896637189" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Quarto Video &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;##fy&lt;/a&gt; &lt;a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp"&gt;##fyp&lt;/a&gt; &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;##python&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;##satisfying&lt;/a&gt;&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046332899385264901"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok5.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Video tiktok-4</title><link href="/video-tiktok-4.html" rel="alternate"></link><published>2021-12-27T09:00:00-03:00</published><updated>2021-12-27T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-12-27:/video-tiktok-4.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046332978896637189" data-video-id="7046332978896637189" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Quarto Video &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;##fy&lt;/a&gt; &lt;a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp"&gt;##fyp&lt;/a&gt; &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;##python&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;##satisfying&lt;/a&gt;&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046332899385264901"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
 &lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok4.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Video tiktok-3</title><link href="/video-tiktok-3.html" rel="alternate"></link><published>2021-12-26T23:00:00-03:00</published><updated>2021-12-26T23:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2021-12-26:/video-tiktok-3.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046213770095430917" data-video-id="7046213770095430917" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Terceiro Video &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;##python&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;##fy&lt;/a&gt;&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046213653133101829"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok4.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Video tiktok-3</title><link href="/video-tiktok-3.html" rel="alternate"></link><published>2021-12-26T23:00:00-03:00</published><updated>2021-12-26T23:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-12-26:/video-tiktok-3.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046213770095430917" data-video-id="7046213770095430917" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Terceiro Video &lt;a title="python" target="_blank" href="https://www.tiktok.com/tag/python"&gt;##python&lt;/a&gt; &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;##fy&lt;/a&gt;&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046213653133101829"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
 &lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok3.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Video tiktok-2</title><link href="/video-tiktok-2.html" rel="alternate"></link><published>2021-12-26T22:00:00-03:00</published><updated>2021-12-26T22:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2021-12-26:/video-tiktok-2.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046193469680831750" data-video-id="7046193469680831750" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Segundo Video &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;##fy&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;##satisfying&lt;/a&gt;&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046193405151415045"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok3.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Video tiktok-2</title><link href="/video-tiktok-2.html" rel="alternate"></link><published>2021-12-26T22:00:00-03:00</published><updated>2021-12-26T22:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-12-26:/video-tiktok-2.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046193469680831750" data-video-id="7046193469680831750" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Segundo Video &lt;a title="fy" target="_blank" href="https://www.tiktok.com/tag/fy"&gt;##fy&lt;/a&gt; &lt;a title="satisfying" target="_blank" href="https://www.tiktok.com/tag/satisfying"&gt;##satisfying&lt;/a&gt;&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046193405151415045"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
 &lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok2.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Video tiktok-1</title><link href="/video-tiktok-1.html" rel="alternate"></link><published>2021-12-26T21:00:00-03:00</published><updated>2021-12-26T21:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2021-12-26:/video-tiktok-1.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046183804414921990" data-video-id="7046183804414921990" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Primeiro Video&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046183707937475334"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok2.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Video tiktok-1</title><link href="/video-tiktok-1.html" rel="alternate"></link><published>2021-12-26T21:00:00-03:00</published><updated>2021-12-26T21:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-12-26:/video-tiktok-1.html</id><content type="html">&lt;blockquote class="tiktok-embed" cite="https://www.tiktok.com/@perceubertoletti/video/7046183804414921990" data-video-id="7046183804414921990" style="max-width: 605px;min-width: 325px;" &gt; &lt;section&gt; &lt;a target="_blank" title="@perceubertoletti" href="https://www.tiktok.com/@perceubertoletti"&gt;@perceubertoletti&lt;/a&gt; &lt;p&gt;Primeiro Video&lt;/p&gt; &lt;a target="_blank" title="♬ som original - Perceu Bertoletti" href="https://www.tiktok.com/music/som-original-7046183707937475334"&gt;♬ som original - Perceu Bertoletti&lt;/a&gt; &lt;/section&gt; &lt;/blockquote&gt;
 &lt;script async src="https://www.tiktok.com/embed.js"&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok1.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Artigo keyworks-3</title><link href="/artigo-keyworks-3.html" rel="alternate"></link><published>2021-09-28T10:00:00-03:00</published><updated>2021-09-28T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2021-09-28:/artigo-keyworks-3.html</id><content type="html">&lt;p&gt;&lt;strong&gt;6 Palavras mais utilizadas no universo do desenvolvimento de softwares&lt;/strong&gt;,
+&lt;p&gt;&lt;a href="https://github.com/Perceu/tiktok/blob/main/python/tiktok1.py"&gt;link para o codigo&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Artigo keyworks-3</title><link href="/artigo-keyworks-3.html" rel="alternate"></link><published>2021-09-28T10:00:00-03:00</published><updated>2021-09-28T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-09-28:/artigo-keyworks-3.html</id><content type="html">&lt;p&gt;&lt;strong&gt;6 Palavras mais utilizadas no universo do desenvolvimento de softwares&lt;/strong&gt;,
 se liga: 
-&lt;a href="https://www.keyworks.com.br/6-palavras-mais-utilizadas-no-universo-do-desenvolvimento-de-softwares/"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Artigo keyworks-2</title><link href="/artigo-keyworks-2.html" rel="alternate"></link><published>2021-08-24T10:00:00-03:00</published><updated>2021-08-24T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2021-08-24:/artigo-keyworks-2.html</id><content type="html">&lt;p&gt;&lt;strong&gt;5 ideias para utilizar Python criativamente no seu dia a dia!&lt;/strong&gt;,
+&lt;a href="https://www.keyworks.com.br/6-palavras-mais-utilizadas-no-universo-do-desenvolvimento-de-softwares/"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Artigo keyworks-2</title><link href="/artigo-keyworks-2.html" rel="alternate"></link><published>2021-08-24T10:00:00-03:00</published><updated>2021-08-24T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-08-24:/artigo-keyworks-2.html</id><content type="html">&lt;p&gt;&lt;strong&gt;5 ideias para utilizar Python criativamente no seu dia a dia!&lt;/strong&gt;,
 se liga: 
-&lt;a href="https://www.keyworks.com.br/5-ideias-para-utilizar-python-criativamente-no-seu-dia-a-dia/"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Artigo keyworks-1</title><link href="/artigo-keyworks-1.html" rel="alternate"></link><published>2021-08-02T10:00:00-03:00</published><updated>2021-08-02T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2021-08-02:/artigo-keyworks-1.html</id><content type="html">&lt;p&gt;&lt;strong&gt;5 dicas para: Otimizar o desenvolvimento de Softwares&lt;/strong&gt;,
+&lt;a href="https://www.keyworks.com.br/5-ideias-para-utilizar-python-criativamente-no-seu-dia-a-dia/"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Artigo keyworks-1</title><link href="/artigo-keyworks-1.html" rel="alternate"></link><published>2021-08-02T10:00:00-03:00</published><updated>2021-08-02T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-08-02:/artigo-keyworks-1.html</id><content type="html">&lt;p&gt;&lt;strong&gt;5 dicas para: Otimizar o desenvolvimento de Softwares&lt;/strong&gt;,
 se liga: 
-&lt;a href="https://www.keyworks.com.br/5-dicas-para-otimizar-o-desenvolvimento-de-softwares/"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Meus Contatos</title><link href="/meus-contatos.html" rel="alternate"></link><published>2020-12-22T09:00:00-03:00</published><updated>2020-12-22T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2020-12-22:/meus-contatos.html</id><content type="html">&lt;ul&gt;
-&lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont devicon-linkedin-plain" href="https://www.linkedin.com/in/perceu-bertoletti/" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;a href="https://www.keyworks.com.br/5-dicas-para-otimizar-o-desenvolvimento-de-softwares/"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Do Php ao Python</title><link href="/do-php-ao-python.html" rel="alternate"></link><published>2021-03-07T09:00:00-03:00</published><updated>2021-03-07T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-03-07:/do-php-ao-python.html</id><summary type="html">&lt;section&gt;
+    &lt;h1&gt;PHP to Python&lt;/h1&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Quem eu sou?&lt;/h2&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;:Perceu Bertoletti&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Idade&lt;/strong&gt;: 31 anos&lt;/li&gt;
+        &lt;li&gt;Para mais informações: Oi! em qualquer rede social&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;Sobre o que vamos conversar ?&lt;/h2&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;Como ir do PHP ao python&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Sintax&lt;/li&gt;
+            &lt;li&gt;Python&lt;/li&gt;
+            &lt;li&gt;Como estudar uma liguagem com base em outra&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Hello World&lt;/h2&gt;
+    &lt;h5&gt;hello.php&lt;/h5&gt;
+    &lt;code class="php"&gt;&lt;pre&gt;echo "Hello World";&lt;/pre&gt;&lt;/code&gt;
+    &lt;h5&gt;hello.py …&lt;/h5&gt;&lt;/section&gt;</summary><content type="html">&lt;section&gt;
+    &lt;h1&gt;PHP to Python&lt;/h1&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Quem eu sou?&lt;/h2&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;:Perceu Bertoletti&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Idade&lt;/strong&gt;: 31 anos&lt;/li&gt;
+        &lt;li&gt;Para mais informações: Oi! em qualquer rede social&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;Sobre o que vamos conversar ?&lt;/h2&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;Como ir do PHP ao python&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Sintax&lt;/li&gt;
+            &lt;li&gt;Python&lt;/li&gt;
+            &lt;li&gt;Como estudar uma liguagem com base em outra&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Hello World&lt;/h2&gt;
+    &lt;h5&gt;hello.php&lt;/h5&gt;
+    &lt;code class="php"&gt;&lt;pre&gt;echo "Hello World";&lt;/pre&gt;&lt;/code&gt;
+    &lt;h5&gt;hello.py&lt;/h5&gt;
+    &lt;code class="python"&gt;&lt;pre&gt;print("hello world")&lt;/pre&gt;&lt;/code&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;While&lt;/h2&gt;
+    &lt;h5&gt;while.php&lt;/h5&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;If&lt;/h2&gt;
+    &lt;h5&gt;if.php&lt;/h5&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Ambiente de Dev&lt;/h2&gt;
+    &lt;table&gt;
+        &lt;tr&gt;
+            &lt;th&gt;PHP&lt;/th&gt;
+            &lt;th&gt;Python&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Apache&lt;/td&gt;
+            &lt;td&gt;Python&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Php&lt;/td&gt;
+            &lt;td&gt;PIP&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Composer&lt;/td&gt;
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Ambiente de Produção&lt;/h2&gt;
+    &lt;table&gt;
+        &lt;tr&gt;
+            &lt;th&gt;PHP&lt;/th&gt;
+            &lt;th&gt;Python&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Apache&lt;/td&gt;
+            &lt;td&gt;Nginx ou Apache&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Php&lt;/td&gt;
+            &lt;td&gt;Guinicorn&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Composer&lt;/td&gt;
+            &lt;td&gt;Python&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;/td&gt;
+            &lt;td&gt;PIP&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Frameworks&lt;/h2&gt;
+    &lt;table&gt;
+        &lt;tr&gt;
+            &lt;th&gt;PHP&lt;/th&gt;
+            &lt;th&gt;Python&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Zend&lt;/td&gt;
+            &lt;td&gt;Django&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Synfony&lt;/td&gt;
+            &lt;td&gt;Pyramid&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Laravel&lt;/td&gt;
+            &lt;td&gt;Web2Py&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Stdm&lt;/td&gt;
+            &lt;td&gt;Flask&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h2&gt;Vantagens&lt;/h2&gt;
+    &lt;table&gt;
+        &lt;tr&gt;
+            &lt;th&gt;PHP&lt;/th&gt;
+            &lt;th&gt;Python&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Qualquer lugar&lt;/td&gt;
+            &lt;td&gt;Aprendizagem rapida&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Documentação&lt;/td&gt;
+            &lt;td&gt;Sintax simples&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Nascido na web&lt;/td&gt;
+            &lt;td&gt;Estabilidade de versionamento&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Artigos&lt;/td&gt;
+            &lt;td&gt;Comunidade&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/section&gt;</content><category term="apresentacoes"></category></entry><entry><title>Meus Contatos</title><link href="/meus-contatos.html" rel="alternate"></link><published>2020-12-22T09:00:00-03:00</published><updated>2020-12-22T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2020-12-22:/meus-contatos.html</id><content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-stack-overflow" href="https://pt.stackoverflow.com/users/118700/perceu-bertoletti" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont devicon-github-original" href="https://github.com/Perceu" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont devicon-gitlab-plain" href="https://gitlab.com/perceu" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont devicon-facebook-plain" href="https://www.facebook.com/PerceuB/" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a _="," class="hvr-wobble-to-top-right p-cont devicon-twitter-original" href="https://twitter.com/PerceuB" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-twitch" href="https://www.twitch.tv/perceubertoletti" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-telegram" href="https://t.me/PerceuBertoletti" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-blogger" href="https://perceubertoletti.blogspot.com/" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-telegram" href="https://t.me/PerceuBertoletti" target="_blank"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-twitch" href="https://www.twitch.tv/perceubertoletti" target="_blank"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-blogger" href="" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-medium" href="https://medium.com/@perceubertoletti" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-tumblr" href="https://perceubertoletti.tumblr.com/" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-instagram" href="https://www.instagram.com/perceubertoletti/" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-pinterest" href="https://br.pinterest.com/perceubertoletti/" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont fab fa-youtube" href="https://www.youtube.com/c/PerceuBertoletti" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="hvr-wobble-to-top-right p-cont fas fa-envelope" href="mailto:perceubertoletti@gmail.com" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="social"></category></entry><entry><title>Podcast opencast-5</title><link href="/podcast-opencast-5.html" rel="alternate"></link><published>2020-08-24T09:00:00-03:00</published><updated>2020-08-24T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2020-08-24:/podcast-opencast-5.html</id><content type="html">&lt;iframe src="https://anchor.fm/opencast/embed/episodes/Dicas-de-Jogos-da-Steam-eijur1/a-a31epii" height="102px" width="400px" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
+&lt;/ul&gt;</content><category term="social"></category></entry><entry><title>Podcast opencast-5</title><link href="/podcast-opencast-5.html" rel="alternate"></link><published>2020-08-24T09:00:00-03:00</published><updated>2020-08-24T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2020-08-24:/podcast-opencast-5.html</id><content type="html">&lt;iframe src="https://anchor.fm/opencast/embed/episodes/Dicas-de-Jogos-da-Steam-eijur1/a-a31epii" height="102px" width="400px" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://anchor.fm/opencast"&gt;link para o podcast&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Artigo blog-4</title><link href="/artigo-blog-4.html" rel="alternate"></link><published>2020-07-04T10:00:00-03:00</published><updated>2020-07-04T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2020-07-04:/artigo-blog-4.html</id><content type="html">&lt;p&gt;&lt;strong&gt;Shell: tirar caracteres de string&lt;/strong&gt;,
+&lt;p&gt;&lt;a href="https://anchor.fm/opencast"&gt;link para o podcast&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Artigo blog-4</title><link href="/artigo-blog-4.html" rel="alternate"></link><published>2020-07-04T10:00:00-03:00</published><updated>2020-07-04T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2020-07-04:/artigo-blog-4.html</id><content type="html">&lt;p&gt;&lt;strong&gt;Shell: tirar caracteres de string&lt;/strong&gt;,
 se liga: 
-&lt;a href="https://perceubertoletti.blogspot.com/2020/07/como-retirar-alguns-caracteres-de-uma.html"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Artigo blog-3</title><link href="/artigo-blog-3.html" rel="alternate"></link><published>2020-06-04T10:00:00-03:00</published><updated>2020-06-04T10:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2020-06-04:/artigo-blog-3.html</id><content type="html">&lt;p&gt;&lt;strong&gt;Shell: percorrer arquivos da pasta&lt;/strong&gt;,
+&lt;a href="https://perceubertoletti.blogspot.com/2020/07/como-retirar-alguns-caracteres-de-uma.html"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Artigo blog-3</title><link href="/artigo-blog-3.html" rel="alternate"></link><published>2020-06-04T10:00:00-03:00</published><updated>2020-06-04T10:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2020-06-04:/artigo-blog-3.html</id><content type="html">&lt;p&gt;&lt;strong&gt;Shell: percorrer arquivos da pasta&lt;/strong&gt;,
 se liga: 
-&lt;a href="https://perceubertoletti.blogspot.com/2020/06/como-percorrer-todos-os-arquivos-de-uma.html"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Artigo blog-2</title><link href="/artigo-blog-2.html" rel="alternate"></link><published>2020-06-04T09:00:00-03:00</published><updated>2020-06-04T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2020-06-04:/artigo-blog-2.html</id><content type="html">&lt;p&gt;&lt;strong&gt;parar todos os dockers de uma vez&lt;/strong&gt;,
+&lt;a href="https://perceubertoletti.blogspot.com/2020/06/como-percorrer-todos-os-arquivos-de-uma.html"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Artigo blog-2</title><link href="/artigo-blog-2.html" rel="alternate"></link><published>2020-06-04T09:00:00-03:00</published><updated>2020-06-04T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2020-06-04:/artigo-blog-2.html</id><content type="html">&lt;p&gt;&lt;strong&gt;parar todos os dockers de uma vez&lt;/strong&gt;,
 se liga: 
-&lt;a href="https://perceubertoletti.blogspot.com/2020/06/como-parar-todos-os-dockers-de-uma-vez.html"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Podcast opencast-4</title><link href="/podcast-opencast-4.html" rel="alternate"></link><published>2020-05-27T09:00:00-03:00</published><updated>2020-05-27T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2020-05-27:/podcast-opencast-4.html</id><content type="html">&lt;iframe src="https://anchor.fm/opencast/embed/episodes/WordPress-para-agncias-com-Mateus-vila-eeofnl/a-a2b77ud" height="102px" width="400px" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
+&lt;a href="https://perceubertoletti.blogspot.com/2020/06/como-parar-todos-os-dockers-de-uma-vez.html"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Podcast opencast-4</title><link href="/podcast-opencast-4.html" rel="alternate"></link><published>2020-05-27T09:00:00-03:00</published><updated>2020-05-27T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2020-05-27:/podcast-opencast-4.html</id><content type="html">&lt;iframe src="https://anchor.fm/opencast/embed/episodes/WordPress-para-agncias-com-Mateus-vila-eeofnl/a-a2b77ud" height="102px" width="400px" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://anchor.fm/opencast"&gt;link para o podcast&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Podcast opencast-3</title><link href="/podcast-opencast-3.html" rel="alternate"></link><published>2020-05-18T09:00:00-03:00</published><updated>2020-05-18T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2020-05-18:/podcast-opencast-3.html</id><content type="html">&lt;iframe src="https://anchor.fm/opencast/embed/episodes/Desenvolvendo-em-Java-com-Gleice-Ellen-ee7k5t/a-a27rgai" height="102px" width="400px" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://anchor.fm/opencast"&gt;link para o podcast&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Podcast opencast-3</title><link href="/podcast-opencast-3.html" rel="alternate"></link><published>2020-05-18T09:00:00-03:00</published><updated>2020-05-18T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2020-05-18:/podcast-opencast-3.html</id><content type="html">&lt;iframe src="https://anchor.fm/opencast/embed/episodes/Desenvolvendo-em-Java-com-Gleice-Ellen-ee7k5t/a-a27rgai" height="102px" width="400px" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://anchor.fm/opencast"&gt;link para o podcast&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Podcast opencast-2</title><link href="/podcast-opencast-2.html" rel="alternate"></link><published>2020-03-24T09:00:00-03:00</published><updated>2020-03-24T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2020-03-24:/podcast-opencast-2.html</id><content type="html">&lt;iframe src="https://anchor.fm/opencast/embed/episodes/Net-Core-com-Maurcio-Moccelin-ec2mkf/a-a1pub3i" height="102px" width="400px" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://anchor.fm/opencast"&gt;link para o podcast&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Podcast opencast-2</title><link href="/podcast-opencast-2.html" rel="alternate"></link><published>2020-03-24T09:00:00-03:00</published><updated>2020-03-24T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2020-03-24:/podcast-opencast-2.html</id><content type="html">&lt;iframe src="https://anchor.fm/opencast/embed/episodes/Net-Core-com-Maurcio-Moccelin-ec2mkf/a-a1pub3i" height="102px" width="400px" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://anchor.fm/opencast"&gt;link para o podcast&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Podcast opencast-1</title><link href="/podcast-opencast-1.html" rel="alternate"></link><published>2020-02-03T09:00:00-03:00</published><updated>2020-02-03T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2020-02-03:/podcast-opencast-1.html</id><content type="html">&lt;iframe src="https://anchor.fm/opencast/embed/episodes/Bem-vindo-ao-Django-Python-eajhmm/a-a1d6va0" height="102px" width="400px" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://anchor.fm/opencast"&gt;link para o podcast&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Podcast opencast-1</title><link href="/podcast-opencast-1.html" rel="alternate"></link><published>2020-02-03T09:00:00-03:00</published><updated>2020-02-03T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2020-02-03:/podcast-opencast-1.html</id><content type="html">&lt;iframe src="https://anchor.fm/opencast/embed/episodes/Bem-vindo-ao-Django-Python-eajhmm/a-a1d6va0" height="102px" width="400px" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://anchor.fm/opencast"&gt;link para o podcast&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Artigo blog-1</title><link href="/artigo-blog-1.html" rel="alternate"></link><published>2018-04-30T09:00:00-03:00</published><updated>2018-04-30T09:00:00-03:00</updated><author><name>index</name></author><id>tag:None,2018-04-30:/artigo-blog-1.html</id><content type="html">&lt;p&gt;&lt;strong&gt;hello-world&lt;/strong&gt;,
+&lt;p&gt;&lt;a href="https://anchor.fm/opencast"&gt;link para o podcast&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Artigo blog-1</title><link href="/artigo-blog-1.html" rel="alternate"></link><published>2018-04-30T09:00:00-03:00</published><updated>2018-04-30T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2018-04-30:/artigo-blog-1.html</id><content type="html">&lt;p&gt;&lt;strong&gt;hello-world&lt;/strong&gt;,
 se liga: 
-&lt;a href="https://perceubertoletti.blogspot.com/2018/04/hello-world.html"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="home"></category></entry><entry><title>Ola Mundo!</title><link href="/ola-mundo.html" rel="alternate"></link><published>1991-06-24T17:00:00-03:00</published><updated>1991-06-24T17:00:00-03:00</updated><author><name>index</name></author><id>tag:None,1991-06-24:/ola-mundo.html</id><content type="html">&lt;p&gt;Nasci escrevendo esse site!&lt;/p&gt;
-&lt;p&gt;Como eu posso te ajudar ?&lt;/p&gt;</content><category term="home"></category></entry></feed>
+&lt;a href="https://perceubertoletti.blogspot.com/2018/04/hello-world.html"&gt;link para o post&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Ola Mundo!</title><link href="/ola-mundo.html" rel="alternate"></link><published>1991-06-24T17:00:00-03:00</published><updated>1991-06-24T17:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,1991-06-24:/ola-mundo.html</id><content type="html">&lt;p&gt;Nasci escrevendo esse site!&lt;/p&gt;
+&lt;p&gt;Como eu posso te ajudar ?&lt;/p&gt;</content><category term="blog"></category></entry></feed>
