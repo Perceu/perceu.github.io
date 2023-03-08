@@ -103,18 +103,18 @@
 &lt;/section&gt;
 &lt;section data-background="#010126"&gt;
     &lt;h2&gt;Codigo&lt;/h2&gt;
-    &lt;img src="imgs/codigo.jpg" height="400px"&gt;
+    &lt;img src="/theme/img/codigo.jpg" height="400px"&gt;
 &lt;/section&gt;
 &lt;section&gt;
     &lt;section data-background="#010126"&gt;
         &lt;h1&gt;Codigo Limpo&lt;/h1&gt;
         &lt;p&gt;
-            &lt;img src="imgs/clean_code.jpeg" alt=""&gt;
+            &lt;img src="/theme/img/clean_code.jpeg" alt=""&gt;
         &lt;/p&gt;
     &lt;/section&gt;
     &lt;section data-background="#010126"&gt;
         &lt;h2&gt;Limpo&lt;/h2&gt;
-        &lt;img src="imgs/wtf.jpg" height="400px"&gt;
+        &lt;img src="/theme/img/wtf.jpg" height="400px"&gt;
     &lt;/section&gt;
     &lt;section data-background="#010126"&gt;
         &lt;h2&gt;Codigo Limpo&lt;/h2&gt;
@@ -140,7 +140,7 @@
     &lt;/section&gt;
     &lt;section data-background="#010126"&gt;
         &lt;h2&gt;Design Patterns&lt;/h2&gt;
-        &lt;img src="imgs/gof.jpeg" height="400px"&gt;
+        &lt;img src="/theme/img/gof.jpeg" height="400px"&gt;
     &lt;/section&gt;
     &lt;section data-background="#010126"&gt;
         &lt;h2&gt;Bom senso&lt;/h2&gt;
@@ -154,13 +154,12 @@
             &lt;li&gt;ver codigo dos outros&lt;/li&gt;
         &lt;/ul&gt;
         &lt;p&gt;&lt;small&gt;*zealdocs&lt;/small&gt;&lt;/p&gt;
-    &lt;/section &gt;
+    &lt;/section&gt;
     &lt;section data-background="#010126"&gt;
         &lt;h2&gt;Codigo Limpo&lt;/h2&gt;
         &lt;p&gt;Não importa tecnologia&lt;/p&gt;
         &lt;p&gt; $ ; -&gt; . &lt;/p&gt;
     &lt;/section&gt;
-
     &lt;section data-background="#010126"&gt;
         &lt;h2&gt;Codigo legado&lt;/h2&gt;
         &lt;ul&gt;
@@ -173,7 +172,7 @@
     &lt;section data-background="#010126"&gt;
         &lt;h2&gt;Codigo legado&lt;/h2&gt;
         &lt;h3&gt;Sem Testes&lt;/h3&gt;
-        &lt;img src="imgs/codigo_legado.jpg" alt=""&gt;
+        &lt;img src="/theme/img/codigo_legado.jpg" alt=""&gt;
     &lt;/section&gt;
     &lt;section data-background="#010126"&gt;
         &lt;h2&gt;Testes&lt;/h2&gt;
@@ -188,7 +187,7 @@
 &lt;section&gt;
     &lt;h1&gt;Mindset&lt;/h1&gt;
     &lt;p&gt;
-        &lt;img src="imgs/think.jpg" alt=""&gt;
+        &lt;img src="/theme/img/think.jpg" alt=""&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 &lt;section&gt;
@@ -203,7 +202,7 @@
 &lt;section data-background="#26011e"&gt;
     &lt;h1&gt;Codificador Limpo&lt;/h1&gt;
     &lt;p&gt;
-        &lt;img width="400px" src="imgs/codificador_limpo.jpg" alt=""&gt;
+        &lt;img width="400px" src="/theme/img/codificador_limpo.jpg" alt=""&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -283,7 +282,7 @@
         &lt;small&gt;Me contate como &lt;b&gt;Perceu Bertoletti&lt;/b&gt; na maioria das redes sociais&lt;/small&gt;
     &lt;/p&gt;
     &lt;p&gt;
-        &lt;small&gt;contato: perceu.github.io/me&lt;/small&gt;
+        &lt;small&gt;contato: perceu.github.io&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;</content><category term="apresentacoes"></category></entry><entry><title>Do Php ao Python</title><link href="/do-php-ao-python.html" rel="alternate"></link><published>2021-03-07T09:00:00-03:00</published><updated>2021-03-07T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2021-03-07:/do-php-ao-python.html</id><summary type="html">&lt;section&gt;
     &lt;h1&gt;PHP to Python&lt;/h1&gt;
