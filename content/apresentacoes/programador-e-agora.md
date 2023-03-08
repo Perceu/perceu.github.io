@@ -61,18 +61,18 @@ Author: Perceu Bertoletti
 </section>
 <section data-background="#010126">
     <h2>Codigo</h2>
-    <img src="imgs/codigo.jpg" height="400px">
+    <img src="/theme/img/codigo.jpg" height="400px">
 </section>
 <section>
     <section data-background="#010126">
         <h1>Codigo Limpo</h1>
         <p>
-            <img src="imgs/clean_code.jpeg" alt="">
+            <img src="/theme/img/clean_code.jpeg" alt="">
         </p>
     </section>
     <section data-background="#010126">
         <h2>Limpo</h2>
-        <img src="imgs/wtf.jpg" height="400px">
+        <img src="/theme/img/wtf.jpg" height="400px">
     </section>
     <section data-background="#010126">
         <h2>Codigo Limpo</h2>
@@ -98,7 +98,7 @@ Author: Perceu Bertoletti
     </section>
     <section data-background="#010126">
         <h2>Design Patterns</h2>
-        <img src="imgs/gof.jpeg" height="400px">
+        <img src="/theme/img/gof.jpeg" height="400px">
     </section>
     <section data-background="#010126">
         <h2>Bom senso</h2>
@@ -112,13 +112,12 @@ Author: Perceu Bertoletti
             <li>ver codigo dos outros</li>
         </ul>
         <p><small>*zealdocs</small></p>
-    </section >
+    </section>
     <section data-background="#010126">
         <h2>Codigo Limpo</h2>
         <p>Não importa tecnologia</p>
         <p> $ ; -> . </p>
     </section>
-    
     <section data-background="#010126">
         <h2>Codigo legado</h2>
         <ul>
@@ -131,7 +130,7 @@ Author: Perceu Bertoletti
     <section data-background="#010126">
         <h2>Codigo legado</h2>
         <h3>Sem Testes</h3>
-        <img src="imgs/codigo_legado.jpg" alt="">
+        <img src="/theme/img/codigo_legado.jpg" alt="">
     </section>
     <section data-background="#010126">
         <h2>Testes</h2>
@@ -146,7 +145,7 @@ Author: Perceu Bertoletti
 <section>
     <h1>Mindset</h1>
     <p>
-        <img src="imgs/think.jpg" alt="">
+        <img src="/theme/img/think.jpg" alt="">
     </p>
 </section>
 <section>
@@ -161,7 +160,7 @@ Author: Perceu Bertoletti
 <section data-background="#26011e">
     <h1>Codificador Limpo</h1>
     <p>
-        <img width="400px" src="imgs/codificador_limpo.jpg" alt="">
+        <img width="400px" src="/theme/img/codificador_limpo.jpg" alt="">
     </p>
 </section>
 
@@ -241,6 +240,6 @@ Author: Perceu Bertoletti
         <small>Me contate como <b>Perceu Bertoletti</b> na maioria das redes sociais</small>
     </p>
     <p>
-        <small>contato: perceu.github.io/me</small>
+        <small>contato: perceu.github.io</small>
     </p>
 </section>

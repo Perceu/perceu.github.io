@@ -1,25 +1,69 @@
 {% extends "base.html" %}
 
 {% block content %}
-<section>
+<style>
+    .header-cat {
+        background: url('/theme/img/plateia.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-y: -80px;
+        height: 30vh;
+    }
+
+    .header-cat h2 {
+        color: #f5f8fd;
+    }
+
+    .header-cat p {
+        color: #eee;
+        padding: 5px;
+        background-color: rgba(0,0,0,0.4);
+        border-radius: 5px;
+    }
+
+    .icon-presentation i {
+        font-size: 3rem;
+    }
+
+    #presentation a:hover i{
+        transform: translateX(20px);
+        transition: transform 0.3s;
+    }
+    #presentation a i{
+        transition: transform 0.5s;
+        color: black;
+    }
+    #presentation a p{
+        color: black;
+    }
+</style>
+
+<section class="header-cat">
     <div class="container">
         <section class="section-title">
             <h2>Apresentações!</h2>
-            <p>
-                
-            </p>
+            <p>Slides que uso em palestras ou eventos, no futuro terão os slides dos videos tambem!</p>
         </section>
-        <div class="row">
-            <div class="col-lg-6">
-                {% for item in articles if item.category=='apresentacoes'  %}
+    </div>
+</section>
+<section id="presentation">
+    <div class="container">
+        {% for item in articles if item.category=='apresentacoes' %}
+        <a href="{{item.url}}">
+            <div class="row">
+                <div class="col-lg-1 icon-presentation">
+                    <i class='bx bxs-right-arrow'></i>
+                </div>
+                <div class="col-lg-6">
                     <div class="resume-item">
-                        <a href="{{item.url}}">
-                            <h4>{{item.title}}</h4>
-                        </a>
+                        <h4>{{item.title}}</h4>
+                        <p>{{item.locale_date}}</p>
                     </div>
-                {% endfor %}
+                </div>
             </div>
-        </div>
+        </a>
+        <hr>
+        {% endfor %}
     </div>
 </section>
 {% endblock %}
