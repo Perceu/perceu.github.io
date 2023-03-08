@@ -1,7 +1,7 @@
 Title: TikTok-18
 Date: 2022-01-19 10:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 ** TikTok-18 **
 

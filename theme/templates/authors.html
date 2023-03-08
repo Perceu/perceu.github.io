@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section>
+    <div class="container">
+        <section class="section-title">
+            <h2>Blog</h2>
+            <p>
+                Compilado de artigos, videos, podcasts que participei ou criei
+            </p>
+            <p>
+                Para acompanhar melhor alguns conteudos que eu faço me acompanhe nas paginas especificas pois aqui preciso atualizar na mão :/
+                <ul>
+                    <li>
+                        <a href="https://www.tiktok.com/@perceubertoletti" target="_blank">TikTok</a> 
+                    </li>
+                    <li>
+                        <a href="https://perceubertoletti.blogspot.com/" target="_blank">Blogspot</a> 
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <hr>
+        <div class="row">
+            <div class="col-lg-6">
+                {% for item in articles if item.category=='blog' %}
+                    <div class="resume-item">
+                        <a href="{{item.url}}">
+                            <h4>{{item.title}}</h4>
+                        </a>
+                        <p>{{item.locale_date}}</p>
+                    </div>
+                    <hr>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

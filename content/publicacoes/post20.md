@@ -1,7 +1,7 @@
 Title: Artigo keyworks-3
 Date: 2021-09-28 10:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 **6 Palavras mais utilizadas no universo do desenvolvimento de softwares**,
 se liga: 

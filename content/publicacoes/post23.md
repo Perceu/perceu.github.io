@@ -1,7 +1,7 @@
 Title: TikTok-10
 Date: 2022-01-01 11:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 ** TikTok-10 **
 

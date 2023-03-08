@@ -47,9 +47,14 @@
   const navbarlinksActive = () => {
     let position = window.scrollY + 200
     navbarlinks.forEach(navbarlink => {
-      if (!navbarlink.hash) return
+      if (!navbarlink.hash){
+        navbarlink.classList.remove('active')
+        return
+      } 
+
       let section = select(navbarlink.hash)
       if (!section) return
+      
       if (position >= section.offsetTop && position <= (section.offsetTop + section.offsetHeight)) {
         navbarlink.classList.add('active')
       } else {
@@ -57,6 +62,7 @@
       }
     })
   }
+
   window.addEventListener('load', navbarlinksActive)
   onscroll(document, navbarlinksActive)
 

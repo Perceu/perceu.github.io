@@ -25,6 +25,7 @@ OUTPUT_PATH = 'output'
 PAGE_PATHS = ['pages']
 AUTHOR_URL = 'me/{slug}.html'
 AUTHOR_SAVE_AS = 'me/{slug}.html'
+DEFAULT_DATE_FORMAT = '%d/%m/%Y'
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -35,9 +36,6 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
-
-DEFAULT_ORPHANS = 1
-DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

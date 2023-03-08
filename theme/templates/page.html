@@ -2,8 +2,17 @@
 
 {% block content %}
     {{ page.content }}
-    <a href="/"> 
-        <i class="fas fa-home" ></i>
-        Voltar para pagina inicial 
-    </a>
+    <section id="services" class="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
+                    <div class="icon"><i class="bx bx-left-arrow-alt"></i></div>
+                    <h4 class="title"><a href="/index.html">Voltar</a></h4>
+                    <p class="description">
+                        Voltar para a página inicial e continuar navegando!
+                    </p>
+                </div>    
+            </div>
+        </div>
+    </section>
 {% endblock %}

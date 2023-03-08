@@ -1,7 +1,7 @@
 Title: TikTok-11
 Date: 2022-01-01 12:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 ** TikTok-11 **
 

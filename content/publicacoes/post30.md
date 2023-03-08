@@ -1,7 +1,7 @@
 Title: TikTok-17
 Date: 2022-01-16 10:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 ** TikTok-17 **
 

@@ -1,7 +1,7 @@
 Title: Artigo linkedin-1
 Date: 2021-12-27 10:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 **Programação artística**,
 se liga: 

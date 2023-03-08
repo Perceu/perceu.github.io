@@ -1,7 +1,7 @@
 Title: Artigo blog-3
 Date: 2020-06-04 10:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 **Shell: percorrer arquivos da pasta**,
 se liga: 

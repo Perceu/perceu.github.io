@@ -1,7 +1,7 @@
 Title: TikTok-15
 Date: 2022-01-15 10:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 ** TikTok-15 **
 

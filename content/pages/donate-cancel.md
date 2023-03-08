@@ -1,7 +1,6 @@
 Title: cancel
 Date: 2020-12-22 09:00
-Category: donate
-Author:index
+
 
 # Quase em! 
 

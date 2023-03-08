@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section>
+    <div class="container">
+        <section class="section-title">
+            <h2>Apresentações!</h2>
+            <p>
+                
+            </p>
+        </section>
+        <div class="row">
+            <div class="col-lg-6">
+                {% for item in articles if item.category=='apresentacoes'  %}
+                    <div class="resume-item">
+                        <a href="{{item.url}}">
+                            <h4>{{item.title}}</h4>
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

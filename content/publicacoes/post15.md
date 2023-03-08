@@ -1,7 +1,7 @@
 Title: Artigo blog-2
 Date: 2020-06-04 09:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 **parar todos os dockers de uma vez**,
 se liga: 

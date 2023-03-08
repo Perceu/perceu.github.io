@@ -1,7 +1,7 @@
 Title: TikTok-12
 Date: 2022-01-06 09:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 ** TikTok-12 **
 

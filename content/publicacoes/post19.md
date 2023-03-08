@@ -1,7 +1,7 @@
 Title: Artigo keyworks-2
 Date: 2021-08-24 10:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 **5 ideias para utilizar Python criativamente no seu dia a dia!**,
 se liga: 

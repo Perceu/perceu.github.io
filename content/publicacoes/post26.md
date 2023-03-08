@@ -1,7 +1,7 @@
 Title: TikTok-13
 Date: 2022-01-09 09:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 ** TikTok-13 **
 

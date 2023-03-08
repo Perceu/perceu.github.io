@@ -1,7 +1,6 @@
 Title: successful
 Date: 2020-12-22 09:00
-Category: donate
-Author:index
+
 
 # Muito obrigado!
  

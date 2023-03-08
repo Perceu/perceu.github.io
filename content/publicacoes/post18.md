@@ -1,7 +1,7 @@
 Title: Artigo keyworks-1
 Date: 2021-08-02 10:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 **5 dicas para: Otimizar o desenvolvimento de Softwares**,
 se liga: 

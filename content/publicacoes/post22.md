@@ -1,7 +1,7 @@
 Title: TikTok-9
 Date: 2022-01-01 10:00
-Category: home
-Author:index
+Category: blog
+Author:Perceu Bertoletti
 
 ** TikTok-9 **
 
