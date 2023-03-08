@@ -1,39 +1,90 @@
 {% extends "base.html" %}
 
 {% block content %}
-<section>
+<style>
+    .header-aut {
+        background: url('/theme/img/blog.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-y: -400px;
+        height: 30vh;
+    }
+
+    .header-aut h2 {
+        color: #f5f8fd;
+    }
+
+    .header-aut p {
+        color: #eee;
+        padding: 5px;
+        background-color: rgba(0,0,0,0.4);
+        border-radius: 5px;
+    }
+
+    .icon-presentation i {
+        font-size: 3rem;
+    }
+
+    @keyframes bounce {
+        0%   {
+            transform: translateY(0px);
+        }
+        15%   {
+            transform: translateY(-20px);
+        }
+        25%  {
+            transform: translateY(0px);
+        }
+        50%  {
+            transform: translateY(-10px);
+        }
+        100% {
+            transform: translateY(0px);
+        }
+    }
+
+    #presentation a:hover i{
+        animation-name: bounce;
+        animation-duration: 1s;
+    }
+
+    #presentation a i{
+        transition: transform 0.5s;
+        color: black;
+    }
+
+    #presentation a p{
+        color: black;
+    }
+</style>
+
+<section class="header-aut">
     <div class="container">
         <section class="section-title">
             <h2>Blog</h2>
-            <p>
-                Compilado de artigos, videos, podcasts que participei ou criei
-            </p>
-            <p>
-                Para acompanhar melhor alguns conteudos que eu faço me acompanhe nas paginas especificas pois aqui preciso atualizar na mão :/
-                <ul>
-                    <li>
-                        <a href="https://www.tiktok.com/@perceubertoletti" target="_blank">TikTok</a> 
-                    </li>
-                    <li>
-                        <a href="https://perceubertoletti.blogspot.com/" target="_blank">Blogspot</a> 
-                    </li>
-                </ul>
-            </p>
+            <p>Compilado de artigos, videos, podcasts que participei ou criei</p>
         </section>
-        <hr>
-        <div class="row">
-            <div class="col-lg-6">
-                {% for item in articles if item.category=='blog' %}
+    </div>
+</section>
+
+<section id="presentation">
+    <div class="container">
+        {% for item in articles if item.category=='blog' %}
+        <a href="{{item.url}}">
+            <div class="row">
+                <div class="col-lg-1 icon-presentation">
+                    <i class='bx bxs-book'></i>
+                </div>
+                <div class="col-lg-6">
                     <div class="resume-item">
-                        <a href="{{item.url}}">
-                            <h4>{{item.title}}</h4>
-                        </a>
+                        <h4>{{item.title}}</h4>
                         <p>{{item.locale_date}}</p>
                     </div>
-                    <hr>
-                {% endfor %}
+                </div>
             </div>
-        </div>
+        </a>
+        <hr>
+        {% endfor %}
     </div>
 </section>
 {% endblock %}
