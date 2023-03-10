@@ -6,8 +6,8 @@
         background: url('/theme/img/blog.jpg');
         background-size: cover;
         background-repeat: no-repeat;
-        background-position-y: -400px;
-        height: 30vh;
+        background-position-y: -80px;
+        height: 380px;
     }
 
     .header-aut h2 {
@@ -72,10 +72,10 @@
         {% for item in articles if item.category=='blog' %}
         <a href="{{item.url}}">
             <div class="row">
-                <div class="col-lg-1 icon-presentation">
+                <div class="col-2 col-lg-1 icon-presentation">
                     <i class='bx bxs-book'></i>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-10">
                     <div class="resume-item">
                         <h4>{{item.title}}</h4>
                         <p>{{item.locale_date}}</p>
