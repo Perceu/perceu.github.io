@@ -1,18 +1,540 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Perceu Bertoletti - apresentacoes</title><link href="/" rel="alternate"></link><link href="/feeds/apresentacoes.atom.xml" rel="self"></link><id>/</id><updated>2023-03-07T09:00:00-03:00</updated><entry><title>Meus 10 Anos de Trabalho</title><link href="/meus-10-anos-de-trabalho.html" rel="alternate"></link><published>2023-03-07T09:00:00-03:00</published><updated>2023-03-07T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2023-03-07:/meus-10-anos-de-trabalho.html</id><content type="html">&lt;section&gt;
-    Meus 13 anos de Trabalho!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Perceu Bertoletti - apresentacoes</title><link href="/" rel="alternate"></link><link href="/feeds/apresentacoes.atom.xml" rel="self"></link><id>/</id><updated>2023-03-07T09:00:00-03:00</updated><entry><title>Meus 10 Anos de Trabalho</title><link href="/meus-10-anos-de-trabalho.html" rel="alternate"></link><published>2023-03-07T09:00:00-03:00</published><updated>2023-03-07T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2023-03-07:/meus-10-anos-de-trabalho.html</id><summary type="html">&lt;style&gt;
+    .profile {
+        width: 40%;
+        display: inline-block;
+    }
+    .name {
+        display: inline-block;
+        text-align: left;
+        vertical-align: top;
+    }
+    section {
+        padding-top: 80px;
+        position: relative;
+        vertical-align: top;
+        height: 100%;
+    }
+    .label {
+        position: absolute;
+        color: var(--r-background-color);
+        background-color: aquamarine;
+        border-radius:50% ;
+        width: 50px;
+        height: 50px;
+        top: 0;
+        left: 0;
+    }
+    .languages {
+        font-size: 1.5rem;
+    }
+
+    ul.languages {
+        margin: 0;
+    }
+
+    .languages li {
+        margin-bottom …&lt;/style&gt;</summary><content type="html">&lt;style&gt;
+    .profile {
+        width: 40%;
+        display: inline-block;
+    }
+    .name {
+        display: inline-block;
+        text-align: left;
+        vertical-align: top;
+    }
+    section {
+        padding-top: 80px;
+        position: relative;
+        vertical-align: top;
+        height: 100%;
+    }
+    .label {
+        position: absolute;
+        color: var(--r-background-color);
+        background-color: aquamarine;
+        border-radius:50% ;
+        width: 50px;
+        height: 50px;
+        top: 0;
+        left: 0;
+    }
+    .languages {
+        font-size: 1.5rem;
+    }
+
+    ul.languages {
+        margin: 0;
+    }
+
+    .languages li {
+        margin-bottom: 10px;
+    }
+
+    p.index {
+        margin-bottom: 0;
+    }
+
+    .image-1 {
+        width: 30%;
+        display: inline-block;
+    }
+
+    .image-2 {
+        width: 30%;
+        display: inline-block;
+    }
+
+    hr.page-1 {
+        margin-top: 0;
+    }
+    .red {
+        color: red;
+    }
+    .green {
+        color:greenyellow;
+    }
+    .yellow {
+        color: yellow;
+    }
+    hr.divisor {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-left: 0px solid;
+        border-right: 0px solid;
+        border-bottom: 0px solid;
+        width: 50%;
+    }
+    p.title {
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    p.period {
+        font-size: 1.3rem;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+
+    ul.cursos li {
+        font-size: 1rem;
+        padding: 5px;
+        list-style: none;
+        display: inline-block;
+        background-color: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+    }
+&lt;/style&gt;
+&lt;section&gt;
+    Meus 10 anos de Trabalho!
 &lt;/section&gt;
 &lt;section&gt;
-    Perceu Gonçalves Bertoletti
-    Senior software developer
-    31 anos
+    &lt;div&gt;
+        &lt;div class="profile"&gt;
+            &lt;img src="/theme/img/profile-img.jpg" width="100%" alt="profile image"&gt;
+        &lt;/div&gt;
+        &lt;div class="name"&gt;
+            &lt;p class="index"&gt;
+                Perceu Gonçalves Bertoletti&lt;br&gt;
+                &lt;small&gt;Senior software developer&lt;/small&gt;
+            &lt;/p&gt;
+            &lt;hr class="page-1"&gt;
+            &lt;ol class="languages"&gt;
+                &lt;li&gt;Vamos conversar um pouquinho?&lt;/li&gt;
+                &lt;li&gt;Onde e como tudo começou?&lt;/li&gt;
+                &lt;li&gt;Qual foi o caminho?&lt;/li&gt;
+                &lt;li&gt;Onde errei? e o que aprendi com isso&lt;/li&gt;
+                &lt;li&gt;Minha opinião sobre tecnologia/empreendedorismo&lt;/li&gt;
+                &lt;li&gt;Opinioes Polemicas&lt;/li&gt;
+                &lt;li&gt;Links&lt;/li&gt;
+                &lt;li&gt;Duvidas ?&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/section&gt;
 &lt;section&gt;
-    Sobre o que vamos falar:
-    &lt;ul&gt;
-        &lt;li&gt;Carreira&lt;/li&gt;
-        &lt;li&gt;Programação&lt;/li&gt;
+    &lt;span class="label"&gt;1&lt;/span&gt;
+    &lt;a href="https://forms.gle/YJsK1wxMHFrF1sRz7"&gt;Acesso ao formulario &lt;/a&gt;&lt;br&gt;
+    &lt;img src="/theme/img/pycaxias_2023.png" alt="qr code"&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;span class="label"&gt;2&lt;/span&gt;
+    &lt;p class="title"&gt;
+        Gravatai
+    &lt;/p&gt;
+    &lt;p class="period"&gt;
+        2005~2006 &lt;br&gt;
+        Programa computador para todos
+    &lt;/p&gt;
+    &lt;div class="image-1"&gt;
+        &lt;img src="/theme/img/teclado.jpeg" alt="qr code"&gt;
+    &lt;/div&gt;
+    &lt;div class="image-1"&gt;
+        &lt;img src="/theme/img/brick.jpg" alt="qr code"&gt;
+    &lt;/div&gt;
+    &lt;div class="image-2"&gt;
+        &lt;img src="/theme/img/eurodata.png" alt="Certificado"&gt;
+    &lt;/div&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Digitação&lt;/li&gt;
+        &lt;li&gt;Windons XP&lt;/li&gt;
+        &lt;li&gt;Word&lt;/li&gt;
+        &lt;li&gt;Excel&lt;/li&gt;
+        &lt;li&gt;Power-Point&lt;/li&gt;
+        &lt;li&gt;Access&lt;/li&gt;
+        &lt;li&gt;Front-Page&lt;/li&gt;
     &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Ruby* (RPG Maker)&lt;/li&gt;
+        &lt;li&gt;IMG tool (vice-city)&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;span class="label"&gt;3&lt;/span&gt;
+    &lt;p class="title"&gt;
+        Gravatai
+    &lt;/p&gt;
+    &lt;p class="period"&gt;
+        2006~2007
+    &lt;/p&gt;
+    &lt;p&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;HTML&lt;/li&gt;
+        &lt;li&gt;Photopaint&lt;/li&gt;
+        &lt;li&gt;Javascript Basico&lt;/li&gt;
+        &lt;li&gt;Macromedia Dreamweaver&lt;/li&gt;
+        &lt;li&gt;Macromedia Flash&lt;/li&gt;
+        &lt;li&gt;Macromedia Fireworks&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Ruby* (RPG Maker)&lt;/li&gt;
+        &lt;li&gt;Formatação&lt;/li&gt;
+        &lt;li&gt;Manutenção&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;span class="label"&gt;3&lt;/span&gt;
+    &lt;p class="title"&gt;
+        São Marcos
+    &lt;/p&gt;
+    &lt;p class="period"&gt;
+        2008~2011
+    &lt;/p&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Corel&lt;/li&gt;
+        &lt;li&gt;Photoshop&lt;/li&gt;
+        &lt;li&gt;XP&lt;/li&gt;
+        &lt;li&gt;Html&lt;/li&gt;
+        &lt;li&gt;Excel&lt;/li&gt;
+        &lt;li&gt;Flash MX&lt;/li&gt;
+        &lt;li&gt;Fireworks MX&lt;/li&gt;
+        &lt;li&gt;X Games&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;ITIL&lt;/li&gt;
+        &lt;li&gt;COBIT&lt;/li&gt;
+        &lt;li&gt;Gerencia de projetos&lt;/li&gt;
+        &lt;li&gt;Liderança&lt;/li&gt;
+        &lt;li&gt;PMI&lt;/li&gt;
+        &lt;li&gt;Python&lt;/li&gt;
+        &lt;li&gt;PHP&lt;/li&gt;
+        &lt;li&gt;HTML&lt;/li&gt;
+        &lt;li&gt;GLPI&lt;/li&gt;
+        &lt;li&gt;Wordpress&lt;/li&gt;
+        &lt;li&gt;openproject&lt;/li&gt;
+        &lt;li&gt;Apache&lt;/li&gt;
+        &lt;li&gt;FTP&lt;/li&gt;
+        &lt;li&gt;BAT&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Faculdade de tecnologias digitais UCS&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Empacotador&lt;/li&gt;
+        &lt;li&gt;Repositor de Bebidas&lt;/li&gt;
+        &lt;li&gt;Contador Ciclico de peças&lt;/li&gt;
+        &lt;li&gt;Assistente de TI&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;span class="label"&gt;3&lt;/span&gt;
+    &lt;p class="title"&gt;
+        São Marcos
+    &lt;/p&gt;
+    &lt;p class="period"&gt;
+        2012~2015
+    &lt;/p&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;PHP developer&lt;/li&gt;
+        &lt;li&gt;Tecnico Em informatica&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;VB6&lt;/li&gt;
+        &lt;li&gt;C#&lt;/li&gt;
+        &lt;li&gt;Orientação a Objeto&lt;/li&gt;
+        &lt;li&gt;CSS/Boostrap&lt;/li&gt;
+        &lt;li&gt;Git&lt;/li&gt;
+        &lt;li&gt;Wordpress&lt;/li&gt;
+        &lt;li&gt;Cake&lt;/li&gt;
+        &lt;li&gt;Codeigniter&lt;/li&gt;
+        &lt;li&gt;mysql&lt;/li&gt;
+        &lt;li&gt;postgres&lt;/li&gt;
+        &lt;li&gt;Refatoração&lt;/li&gt;
+        &lt;li&gt;Profiling&lt;/li&gt;
+        &lt;li&gt;DDD&lt;/li&gt;
+        &lt;li&gt;Solid&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Faculdade de tecnologias digitais UCS&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Assistente de TI&lt;/li&gt;
+        &lt;li&gt;Desenvolvedor&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;3&lt;/span&gt;
+    &lt;p class="title"&gt;
+        São Marcos
+    &lt;/p&gt;
+    &lt;p class="period"&gt;
+        2015~2016
+    &lt;/p&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;ORM&lt;/li&gt;
+        &lt;li&gt;PHP&lt;/li&gt;
+        &lt;li&gt;HMVC&lt;/li&gt;
+        &lt;li&gt;Codeigniter&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Instrutor/Professor&lt;/li&gt;
+        &lt;li&gt;Desenvolvedor&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;3&lt;/span&gt;
+    &lt;p class="title"&gt;
+        São Marcos / Caxias do sul
+    &lt;/p&gt;
+    &lt;p class="period"&gt;
+        2017~2022
+    &lt;/p&gt;
+    &lt;p&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Redis&lt;/li&gt;
+        &lt;li&gt;Comunicação não violenta&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Welcome to the django&lt;/li&gt;
+        &lt;li&gt;Python&lt;/li&gt;
+        &lt;li&gt;PHP&lt;/li&gt;
+        &lt;li&gt;Javascript&lt;/li&gt;
+        &lt;li&gt;Elixir&lt;/li&gt;
+        &lt;li&gt;Haskel&lt;/li&gt;
+        &lt;li&gt;ELM&lt;/li&gt;
+        &lt;li&gt;GO&lt;/li&gt;
+        &lt;li&gt;Flask&lt;/li&gt;
+        &lt;li&gt;Django&lt;/li&gt;
+        &lt;li&gt;Fastapi&lt;/li&gt;
+        &lt;li&gt;Scrapy&lt;/li&gt;
+        &lt;li&gt;Codeigniter&lt;/li&gt;
+        &lt;li&gt;CakePHP&lt;/li&gt;
+        &lt;li&gt;Laravel&lt;/li&gt;
+        &lt;li&gt;symfony&lt;/li&gt;
+        &lt;li&gt;Slim&lt;/li&gt;
+        &lt;li&gt;Lumen&lt;/li&gt;
+        &lt;li&gt;Vue&lt;/li&gt;
+        &lt;li&gt;Ionic&lt;/li&gt;
+        &lt;li&gt;Angular&lt;/li&gt;
+        &lt;li&gt;React&lt;/li&gt;
+        &lt;li&gt;Vuetify&lt;/li&gt;
+        &lt;li&gt;MaterialUi&lt;/li&gt;
+        &lt;li&gt;Angular Material&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Empreendedor&lt;/li&gt;
+        &lt;li&gt;Desenvolvedor&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;3&lt;/span&gt;
+    &lt;p class="title"&gt;
+        São Marcos
+    &lt;/p&gt;
+    &lt;p class="period"&gt;
+        2023~
+    &lt;/p&gt;
+    &lt;br&gt;
+    &lt;small&gt;
+        Conto pra vocês daqui a 10 anos
+    &lt;/small&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;3&lt;/span&gt;
+    &lt;p class="title"&gt;
+        Cateirada feita
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src="/theme/img/not-bad-color.jpg" alt="Not bad"&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;4&lt;/span&gt;
+    &lt;p class="title"&gt;
+        Bom pois eh...
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src="/theme/img/malz_ai.jpeg" alt="vacilo"&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;4&lt;/span&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Parceirias &lt;span class="fragment green"&gt;Prestador de serviço / Funcionário&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;Empreendedorismo &lt;span class="fragment highlight-red"&gt;de palco&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;Sociedades &lt;span class="fragment green"&gt;Prestador de serviço / Funcionário (barato)&lt;/span&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p class="fragment yellow"&gt;
+        Regra da região que eu vivo, exitem exceções e o mundo e maior que o meu umbigo
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;4&lt;/span&gt;
+    &lt;p&gt;
+        &lt;img src="/theme/img/furia.jpg" alt="furia"&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;4&lt;/span&gt;
+    &lt;p&gt;
+        &lt;img src="/theme/img/calm_down.jpg" alt="we dont this here"&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;4&lt;/span&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Parceirias &lt;span class="fragment green"&gt;ganha, ganha, ganha&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;Sociedades &lt;span class="fragment green"&gt;ganha, ganha, ganha&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;Empreendedorismo &lt;span class="fragment green"&gt;Cumpre as leis vigentes, paga seus impostos&lt;/span&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p class="fragment yellow"&gt;
+        Regra da região que eu vivo, exitem exceções e o mundo e maior que o meu umbigo
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;4&lt;/span&gt;
+    &lt;p&gt;
+        &lt;img src="/theme/img/furia.jpg" alt="furia"&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;4&lt;/span&gt;
+    &lt;p&gt;
+        &lt;img src="/theme/img/calm_down.jpg" alt="we dont this here"&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;4&lt;/span&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Empreendedorismo &lt;span class="fragment green"&gt;Disrupção e perigoso&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;Startup &lt;span class="fragment green"&gt;Alto Ganho, Baixa Segurança&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;Empresa &lt;span class="fragment green"&gt;Medio Ganho, Media Segurança&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;Grande Empresa &lt;span class="fragment green"&gt;Alto Ganho, Media Segurança&lt;/span&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p class="fragment yellow"&gt;
+        Segurança não existe, nem em concursado
+    &lt;/p&gt;
+    &lt;p class="fragment yellow"&gt;
+        Regra da região que eu vivo, exitem exceções e o mundo e maior que o meu umbigo
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;5&lt;/span&gt;
+    &lt;p&gt;Minha Opinião &lt;span class="fragment red"&gt;Não Importa&lt;/span&gt;&lt;/p&gt;
+    &lt;p style="text-align: left"&gt;Tecnologia: &lt;br&gt;
+    &lt;small&gt;Tecnologia é o conjunto de técnicas, habilidades, métodos e processos usados na produção de bens ou serviços, ou na realização de objetivos, como em investigações científicas. Tecnologia pode ser o conhecimento de técnicas, processos e similares.&lt;/small&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;5&lt;/span&gt;
+    &lt;p&gt;Minha Opinião &lt;span class="fragment red"&gt;Não Importa&lt;/span&gt; &lt;/p&gt;
+    &lt;p style="text-align: left"&gt;Empreendedorismo: &lt;br&gt;
+    &lt;small&gt;Empreendedorismo é a capacidade de identificar oportunidades e transformá-las em um negócio viável e lucrativo, por meio da criação, organização e gestão de uma empresa ou empreendimento.&lt;/small&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;5&lt;/span&gt;
+    &lt;p&gt;Minha Opinião &lt;span class="fragment green" data-fragment-index="4"&gt;Aqui sim Importa&lt;/span&gt;&lt;/p&gt;
+    &lt;p class="fragment" data-fragment-index="1"&gt;Meu lugar&lt;/p&gt;
+    &lt;p class="fragment" data-fragment-index="2"&gt;Não.&lt;/p&gt;
+    &lt;p class="fragment" data-fragment-index="3"&gt;Ação &gt; Discurso.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;6&lt;/span&gt;
+    &lt;p&gt;para os jovens&lt;/p&gt;
+    &lt;small class="fragment"&gt;Seu lugar&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Aprenda a receber não.&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Estudar é o minimo&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Ação &gt; Discurso.&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Ensine&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Igual para Igual não existe&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Opinião&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Não existe formula mágica&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Nem todo mundo precisa empreender/vender&lt;/small&gt;&lt;br&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;6&lt;/span&gt;
+    &lt;p&gt;Para os empreendedores/gestores&lt;/p&gt;
+    &lt;small class="fragment"&gt;Seu lugar&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Aprenda a dizer e receber não.&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Estudar é o minimo&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Ação &gt; Discurso.&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Ensine&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Igual para Igual não existe&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Opinião&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Crie magia&lt;/small&gt;&lt;br&gt;
+    &lt;small class="fragment"&gt;Agradeça quem vende o tempo a você&lt;/small&gt;&lt;br&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;7&lt;/span&gt;
+    &lt;p&gt;Links&lt;/p&gt;
+    &lt;a href="https://codetools.com.br/"&gt;Code Tools&lt;/a&gt;&lt;br&gt;
+    &lt;a href="https://gist.github.com/Perceu/b18c27a41ab4896d3385852fd33aab6f"&gt;Gist&lt;/a&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;span class="label"&gt;8&lt;/span&gt;
+    &lt;p&gt;Duvidas ?&lt;/p&gt;
 &lt;/section&gt;</content><category term="apresentacoes"></category></entry><entry><title>Sou Programador e agora ?</title><link href="/sou-programador-e-agora.html" rel="alternate"></link><published>2022-03-07T09:00:00-03:00</published><updated>2022-03-07T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2022-03-07:/sou-programador-e-agora.html</id><summary type="html">&lt;section&gt;
     &lt;h1&gt;Já Programo.&lt;/h1&gt;
     &lt;h3&gt;E agora?&lt;/h3&gt;
