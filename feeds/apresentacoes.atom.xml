@@ -323,6 +323,12 @@
         &lt;li&gt;Instrutor/Professor&lt;/li&gt;
         &lt;li&gt;Desenvolvedor&lt;/li&gt;
     &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Comunidade Python&lt;/li&gt;
+        &lt;li&gt;Pycaxias&lt;/li&gt;
+        &lt;li&gt;Tche linux&lt;/li&gt;
+    &lt;/ul&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
@@ -371,6 +377,29 @@
         &lt;li&gt;Empreendedor&lt;/li&gt;
         &lt;li&gt;Desenvolvedor&lt;/li&gt;
     &lt;/ul&gt;
+    &lt;hr class="divisor"&gt;
+    &lt;ul class="cursos"&gt;
+        &lt;li&gt;Python Brasil&lt;/li&gt;
+        &lt;li&gt;Python Sul&lt;/li&gt;
+        &lt;li&gt;Pycaxias&lt;/li&gt;
+        &lt;li&gt;Tche linux&lt;/li&gt;
+        &lt;li&gt;Foss&lt;/li&gt;
+        &lt;li&gt;PHP rs&lt;/li&gt;
+        &lt;li&gt;RS js&lt;/li&gt;
+        &lt;li&gt;Comunidade PHP garibaldi&lt;/li&gt;
+        &lt;li&gt;TDC&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;span class="label"&gt;3&lt;/span&gt;
+    &lt;p class="title"&gt;
+        Eventos
+    &lt;/p&gt;
+    &lt;a href="https://perceubertoletti.tumblr.com/"&gt;Tumblr&lt;/a&gt;
+    &lt;p class="period"&gt;
+        2023~
+    &lt;/p&gt;
 &lt;/section&gt;
 
 &lt;section&gt;
