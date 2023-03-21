@@ -292,6 +292,12 @@ Author:Perceu Bertoletti
         <li>Instrutor/Professor</li>
         <li>Desenvolvedor</li>
     </ul>
+    <hr class="divisor">
+    <ul class="cursos">
+        <li>Comunidade Python</li>
+        <li>Pycaxias</li>
+        <li>Tche linux</li>
+    </ul>
 </section>
 
 <section>
@@ -340,6 +346,29 @@ Author:Perceu Bertoletti
         <li>Empreendedor</li>
         <li>Desenvolvedor</li>
     </ul>
+    <hr class="divisor">
+    <ul class="cursos">
+        <li>Python Brasil</li>
+        <li>Python Sul</li>
+        <li>Pycaxias</li>
+        <li>Tche linux</li>
+        <li>Foss</li>
+        <li>PHP rs</li>
+        <li>RS js</li>
+        <li>Comunidade PHP garibaldi</li>
+        <li>TDC</li>
+    </ul>
+</section>
+
+<section>
+    <span class="label">3</span>
+    <p class="title">
+        Eventos
+    </p>
+    <a href="https://perceubertoletti.tumblr.com/">Tumblr</a>
+    <p class="period">
+        2023~
+    </p>
 </section>
 
 <section>
