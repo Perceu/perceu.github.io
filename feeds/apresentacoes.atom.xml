@@ -1,5 +1,144 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Perceu Bertoletti - apresentacoes</title><link href="/" rel="alternate"></link><link href="/feeds/apresentacoes.atom.xml" rel="self"></link><id>/</id><updated>2023-03-07T09:00:00-03:00</updated><entry><title>Instrodução ao Scrapy</title><link href="/instroducao-ao-scrapy.html" rel="alternate"></link><published>2023-03-07T09:00:00-03:00</published><updated>2023-03-07T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2023-03-07:/instroducao-ao-scrapy.html</id><content type="html">&lt;style&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Perceu Bertoletti - apresentacoes</title><link href="/" rel="alternate"></link><link href="/feeds/apresentacoes.atom.xml" rel="self"></link><id>/</id><updated>2024-07-04T09:00:00-03:00</updated><entry><title>Destruindo boas praticas de programação, mas se divertindo com isso</title><link href="/destruindo-boas-praticas-de-programacao-mas-se-divertindo-com-isso.html" rel="alternate"></link><published>2024-07-04T09:00:00-03:00</published><updated>2024-07-04T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2024-07-04:/destruindo-boas-praticas-de-programacao-mas-se-divertindo-com-isso.html</id><summary type="html">&lt;section&gt;
+    Destruindo boas praticas de programação, mas se divertindo com isso.
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;div&gt;
+        &lt;div class="profile"&gt;
+            &lt;img src="/theme/img/profile-img.jpg" width="100%" alt="profile image"&gt;
+        &lt;/div&gt;
+        &lt;div class="name"&gt;
+            &lt;p class="index"&gt;
+                Perceu Gonçalves Bertoletti&lt;br&gt;
+                &lt;small&gt;Senior software developer&lt;/small&gt;
+            &lt;/p&gt;
+            &lt;hr class="page-1"&gt;
+            &lt;ol class="languages"&gt;
+                &lt;li&gt;Vamos conversar um pouquinho sobre boas praticas ?&lt;/li&gt;
+                &lt;li&gt;Quando tudo ficou tão chato ?&lt;/li&gt;
+                &lt;li&gt;Fantasy consoles ?&lt;/li&gt;
+                &lt;li&gt;Vamos escrever algo juntos ?&lt;/li&gt;
+                &lt;li&gt;Duvidas ?&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        &lt;ol&gt;
+            &lt;li&gt;Desing patterns&lt;/li&gt;
+            &lt;li&gt;Solid&lt;/li&gt;
+            &lt;li&gt;DRY&lt;/li&gt;
+            &lt;li&gt;MVT, MVC, DDD, TDD...&lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        Mas eu queria fazer joguinho? Gostava de …&lt;/p&gt;&lt;/section&gt;</summary><content type="html">&lt;section&gt;
+    Destruindo boas praticas de programação, mas se divertindo com isso.
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;div&gt;
+        &lt;div class="profile"&gt;
+            &lt;img src="/theme/img/profile-img.jpg" width="100%" alt="profile image"&gt;
+        &lt;/div&gt;
+        &lt;div class="name"&gt;
+            &lt;p class="index"&gt;
+                Perceu Gonçalves Bertoletti&lt;br&gt;
+                &lt;small&gt;Senior software developer&lt;/small&gt;
+            &lt;/p&gt;
+            &lt;hr class="page-1"&gt;
+            &lt;ol class="languages"&gt;
+                &lt;li&gt;Vamos conversar um pouquinho sobre boas praticas ?&lt;/li&gt;
+                &lt;li&gt;Quando tudo ficou tão chato ?&lt;/li&gt;
+                &lt;li&gt;Fantasy consoles ?&lt;/li&gt;
+                &lt;li&gt;Vamos escrever algo juntos ?&lt;/li&gt;
+                &lt;li&gt;Duvidas ?&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        &lt;ol&gt;
+            &lt;li&gt;Desing patterns&lt;/li&gt;
+            &lt;li&gt;Solid&lt;/li&gt;
+            &lt;li&gt;DRY&lt;/li&gt;
+            &lt;li&gt;MVT, MVC, DDD, TDD...&lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        Mas eu queria fazer joguinho? Gostava de computador, gostava de jogar.
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src="/theme/img/nao_queria.jpg" alt=""&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        Agora vivo de desenolvimento web, scraper, automações, crud, relatorios
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;img src="/theme/img/boring_code.jpeg" alt=""&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+        Aos poucos algo que nos divertia vai perdendo o sentido.
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        O que me salvou e como eu continuo aprendendo?
+    &lt;/p&gt;
+    &lt;p&gt;
+        Parei de me importar com a qualidade do que escrevo comecei a so focar na diversão.
+    &lt;/p&gt;
+    &lt;p&gt;
+        Gosto de fazer animaçõeszinhas, fazer imagens para insta, e joguinhos
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        Bibliotecas que vale a pena brincar:
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        Build retro games using WebAssembly for a fantasy console &lt;br&gt;
+        &lt;a href="https://wasm4.org/"&gt;wasm4&lt;/a&gt; 
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games. &lt;br&gt;
+        &lt;a href="https://tic80.com/"&gt;tic80&lt;/a&gt;
+
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        Pyxel is a retro game engine for Python. &lt;br&gt;
+        &lt;a href="https://github.com/kitao/pyxel"&gt;pyxel&lt;/a&gt;
+
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        Make your own cartridges or browse the cartverse in SPLORE!&lt;br&gt;
+        &lt;a href="https://www.lexaloffle.com/pico-8.php"&gt;pico-8&lt;/a&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;
+        Bora ver codigo ?&lt;br&gt;
+        &lt;a href="https://www.lexaloffle.com/pico-8.php"&gt;pico-8&lt;/a&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;p&gt;Duvidas ?&lt;/p&gt;
+&lt;/section&gt;</content><category term="apresentacoes"></category></entry><entry><title>Instrodução ao Scrapy</title><link href="/instroducao-ao-scrapy.html" rel="alternate"></link><published>2023-03-07T09:00:00-03:00</published><updated>2023-03-07T09:00:00-03:00</updated><author><name>Perceu Bertoletti</name></author><id>tag:None,2023-03-07:/instroducao-ao-scrapy.html</id><content type="html">&lt;style&gt;
 
 &lt;/style&gt;
 &lt;section&gt;
